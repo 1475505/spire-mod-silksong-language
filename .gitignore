@@ -1,0 +1,45 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# 依赖jar文件（需要手动获取）
+lib/*.jar
+
+# 编译输出
+*.class
+*.jar
+*.war
+*.ear
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 原始silksong目录（已复制到resources）
+silksong/

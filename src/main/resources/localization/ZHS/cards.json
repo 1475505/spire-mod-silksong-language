@@ -1,0 +1,1886 @@
+{
+  "A Thousand Cuts": {
+    "NAME": "千刀刑",
+    "DESCRIPTION": "每施一牌，诸敌皆受 !M! 创。"
+  },
+  "Accuracy": {
+    "NAME": "准仪",
+    "DESCRIPTION": "*刃器 所伤增 !M! 。"
+  },
+  "Acrobatics": {
+    "NAME": "翻跃术",
+    "DESCRIPTION": "取 !M! 牌。 NL 弃一牌。"
+  },
+  "Adrenaline": {
+    "NAME": "烈血涌",
+    "DESCRIPTION": "得 [G] 。 NL 取二牌。 NL 消尽。",
+    "UPGRADE_DESCRIPTION": "获得 [G] [G] 。 NL NL 抽2张牌。 NL 消耗 。"
+  },
+  "After Image": {
+    "NAME": "残影诀",
+    "DESCRIPTION": "每施一牌，获一 御 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 你每打出一张牌，都获得1点 格挡 。"
+  },
+  "Aggregate": {
+    "NAME": "聚源",
+    "DESCRIPTION": "牌堆每存 !M! 牌，得一点 [B] 。"
+  },
+  "All For One": {
+    "NAME": "万念归宗",
+    "DESCRIPTION": "施 !D! 创。 NL 纳弃堆中零耗牌入手。"
+  },
+  "All Out Attack": {
+    "NAME": "倾力击",
+    "DESCRIPTION": "诸敌皆受 !D! 创。 NL 弃一手牌随机。"
+  },
+  "Allocate": {
+    "NAME": "分源术",
+    "DESCRIPTION": "得 !M! 点 凝神 。 NL 失一 力 。 NL 失一 敏 。"
+  },
+  "Amplify": {
+    "NAME": "倍化术",
+    "DESCRIPTION": "此回合内，下一 能牌 可施二回。",
+    "UPGRADE_DESCRIPTION": "在这个回合，你的下 !M! 张 能力牌 会打出两次。"
+  },
+  "Anger": {
+    "NAME": "怒焰",
+    "DESCRIPTION": "施 !D! 创。 NL 置此牌之影于弃堆。"
+  },
+  "Apotheosis": {
+    "NAME": "升格咒",
+    "DESCRIPTION": "此战中 升格 所有牌。 NL 消尽。"
+  },
+  "Armaments": {
+    "NAME": "兵备诀",
+    "DESCRIPTION": "得 !B! 御 。 NL 此战中 升格 手牌其一。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在本场战斗中 升级 手牌中的所有牌。"
+  },
+  "AscendersBane": {
+    "NAME": "升阶之诅",
+    "DESCRIPTION": "不可施 。 NL 虚无形 。 NL 永驻牌组。"
+  },
+  "Auto Shields": {
+    "NAME": "自御壁",
+    "DESCRIPTION": "若无 御 ，则得 !B! 御 。"
+  },
+  "Axe Kick": {
+    "NAME": "斧劈踏",
+    "DESCRIPTION": "施 !D! 创。 NL 激 最右之蓄能珠。"
+  },
+  "Backflip": {
+    "NAME": "逆跃式",
+    "DESCRIPTION": "得 !B! 御 。 NL 取二牌。"
+  },
+  "Backstab": {
+    "NAME": "背袭术",
+    "DESCRIPTION": "施 !D! 创。 NL 固有 。 NL 消尽。"
+  },
+  "Ball Lightning": {
+    "NAME": "雷光玉",
+    "DESCRIPTION": "施 !D! 创。 生 !M! 枚 雷 蓄能珠。"
+  },
+  "Bandage Up": {
+    "NAME": "缠愈术",
+    "DESCRIPTION": "疗 !M! 命。 NL 消尽。"
+  },
+  "Bane": {
+    "NAME": "厄咒",
+    "DESCRIPTION": "施 !D! 创。 NL 若敌染 毒 ，复施 !D! 创。"
+  },
+  "Barrage": {
+    "NAME": "连珠式",
+    "DESCRIPTION": "每持一蓄能珠，施 !D! 创。"
+  },
+  "Barricade": {
+    "NAME": "坚壁咒",
+    "DESCRIPTION": " 御 值回合始不消。"
+  },
+  "Bash": {
+    "NAME": "重挫击",
+    "DESCRIPTION": "施 !D! 创。 NL 赋 !M! 层 破绽 。"
+  },
+  "Battle Trance": {
+    "NAME": "战冥态",
+    "DESCRIPTION": "取 !M! 牌。 NL 此回合不可再取牌。"
+  },
+  "Beam Cell": {
+    "NAME": "光灼束",
+    "DESCRIPTION": "施 !D! 创。 NL 赋 !M! 层 破绽 。"
+  },
+  "Berserk": {
+    "NAME": "狂怒相",
+    "DESCRIPTION": "获 !M! 层 破绽 。 NL 每回合始得 [R] 。"
+  },
+  "Biased Cognition": {
+    "NAME": "偏执识",
+    "DESCRIPTION": "得 !M! 点 凝神。 NL 每回合始，失 1 点 凝神 。"
+  },
+  "Bite": {
+    "NAME": "啮命齿",
+    "DESCRIPTION": "施 !D! 创。 NL 疗 !M! 命。"
+  },
+  "Blade Dance": {
+    "NAME": "刃舞术",
+    "DESCRIPTION": "添 !M! 张 *刃器 入手。"
+  },
+  "Blaster": {
+    "NAME": "裂光波",
+    "DESCRIPTION": "诸敌皆受 !D! 创。 NL 每持一 蓄能珠，得 [B] 。 NL 消尽。"
+  },
+  "Blind": {
+    "NAME": "蔽目咒",
+    "DESCRIPTION": "赋 !M! 层 衰颓 。",
+    "UPGRADE_DESCRIPTION": "给予所有敌人 !M! 层 虚弱 。"
+  },
+  "Blizzard": {
+    "NAME": "寒狱吹",
+    "DESCRIPTION": "诸敌受此战所生 冰 蓄能珠总数 !M! 倍之创。",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）",
+      ""
+    ]
+  },
+  "Blood for Blood": {
+    "NAME": "血偿术",
+    "DESCRIPTION": "每失一命，此牌耗减1 [R] 。 NL 施 !D! 创。"
+  },
+  "Bloodletting": {
+    "NAME": "血祭式",
+    "DESCRIPTION": "得 [R] [R] 。 NL 失 3 命。",
+    "UPGRADE_DESCRIPTION": "获得 [R] [R] [R] 。 NL 失去 3 点生命。"
+  },
+  "Bludgeon": {
+    "NAME": "钝击锤",
+    "DESCRIPTION": "施 !D! 创。"
+  },
+  "Blur": {
+    "NAME": "幻身诀",
+    "DESCRIPTION": "得 !B! 御 。 NL 下回合始 御 值不消。"
+  },
+  "Body Slam": {
+    "NAME": "舍身撞",
+    "DESCRIPTION": "施当前 御 值之创。",
+    "UPGRADE_DESCRIPTION": " NL （造成 !D! 点伤害。）"
+  },
+  "BootSequence": {
+    "NAME": "启阵式",
+    "DESCRIPTION": "得 !B! 御 。 NL 固有 。 NL 消尽。"
+  },
+  "Bouncing Flask": {
+    "NAME": "跃毒甁",
+    "DESCRIPTION": "随机赋敌3层 毒  !M! 回。"
+  },
+  "Brutality": {
+    "NAME": "虐性",
+    "DESCRIPTION": "回合始，失1命，取1牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时，你失去1点生命，抽1张牌。"
+  },
+  "Buffer": {
+    "NAME": "御伤界",
+    "DESCRIPTION": "阻下一次所受命伤。",
+    "UPGRADE_DESCRIPTION": "阻止下 !M! 次你受到的生命值损伤。"
+  },
+  "Bullet Time": {
+    "NAME": "瞬止境",
+    "DESCRIPTION": "此回合不可取牌。手牌皆零耗。"
+  },
+  "Burn": {
+    "NAME": "灼痕",
+    "DESCRIPTION": " 不可施 。 NL 回合末，受2创。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 在你的回合结束时，你受到4点伤害。"
+  },
+  "Burning Pact": {
+    "NAME": "焚契术",
+    "DESCRIPTION": " 消尽 1牌。 NL 取 !M! 牌。"
+  },
+  "Burst": {
+    "NAME": "迸发式",
+    "DESCRIPTION": "此回合内，下一技牌可施二回。",
+    "UPGRADE_DESCRIPTION": "在这个回合，你打出的下 !M! 张技能牌会打出两次。"
+  },
+  "Calculated Gamble": {
+    "NAME": "筹赌术",
+    "DESCRIPTION": "弃尽手牌。 NL 继而取同数牌。 NL 消尽。",
+    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 然后抽相同数量张牌。"
+  },
+  "Caltrops": {
+    "NAME": "棘刺障",
+    "DESCRIPTION": "每受击时，攻者受 !M! 创。"
+  },
+  "Capacitor": {
+    "NAME": "纳源法",
+    "DESCRIPTION": "增 !M! 蓄能珠位。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 个充能球栏位。"
+  },
+  "Carnage": {
+    "NAME": "屠戮",
+    "DESCRIPTION": "空无 。 NL 施以 !D! 创"
+  },
+  "Catalyst": {
+    "NAME": "促变质",
+    "DESCRIPTION": "使敌之 毒 倍迭。 NL 消尽 。",
+    "UPGRADE_DESCRIPTION": "将一名敌人的 中毒 层数变为三倍。 NL 消耗 。"
+  },
+  "Chaos": {
+    "NAME": "浑沌",
+    "DESCRIPTION": "化生 !M! 颗浑元球。",
+    "UPGRADE_DESCRIPTION": " 生成 !M! 个随机充能球。"
+  },
+  "Chill": {
+    "NAME": "寒冽",
+    "DESCRIPTION": "现每存一敌，化 !M! 颗 霜 球。 NL 消尽 。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 当前每有一名敌人，生成 !M! 个 冰霜 充能球。 NL 消耗 。"
+  },
+  "Choke": {
+    "NAME": "锁喉",
+    "DESCRIPTION": "施 !D! 创。 NL 此回合每出一牌，此敌失 !M! 命。"
+  },
+  "Clash": {
+    "NAME": "兵刃接",
+    "DESCRIPTION": "惟手牌皆攻牌时可出。 NL 施 !D! 创。",
+    "EXTENDED_DESCRIPTION": [
+      "我的手牌中还有非攻击牌。"
+    ]
+  },
+  "Cleave": {
+    "NAME": "横扫",
+    "DESCRIPTION": "予众敌各 !D! 创。"
+  },
+  "Cloak And Dagger": {
+    "NAME": "蔽刃",
+    "DESCRIPTION": "得 !B! 御 。 NL 添 !M! 张 *匕 入手。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 增加 !M! 张 *小刀 到你的手牌。"
+  },
+  "Clothesline": {
+    "NAME": "铁臂",
+    "DESCRIPTION": "施 !D! 创。 NL 予 !M! 重 衰 。"
+  },
+  "Clumsy": {
+    "NAME": "拙笨",
+    "DESCRIPTION": "不可出 。 NL 空无 。"
+  },
+  "Cold Snap": {
+    "NAME": "霜袭",
+    "DESCRIPTION": "施 !D! 创。 化 !M! 颗 霜 球。"
+  },
+  "Combust": {
+    "NAME": "焚身",
+    "DESCRIPTION": "回合终时，失1命，予众敌各 !M! 创。"
+  },
+  "Concentrate": {
+    "NAME": "凝神",
+    "DESCRIPTION": "弃 !M! 牌。 NL 得 [G] [G] 。"
+  },
+  "Conserve Battery": {
+    "NAME": "蓄能",
+    "DESCRIPTION": "得 !B! 御 。 NL 下回合得 [B] 。"
+  },
+  "Consume": {
+    "NAME": "竭尽",
+    "DESCRIPTION": "得 !M! 专注 。 NL 失 1 球位。"
+  },
+  "Coolheaded": {
+    "NAME": "冷颅",
+    "DESCRIPTION": "化 1 颗 霜 球。 NL 抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "生成 1 个 冰霜 充能球。 NL 抽 !M! 张牌。"
+  },
+  "Corpse Explosion": {
+    "NAME": "尸爆",
+    "DESCRIPTION": "予 !M! 重 毒 。 NL 此敌亡时，予众敌各其命上限之创。",
+    "UPGRADE_DESCRIPTION": "deprecated",
+    "EXTENDED_DESCRIPTION": [
+      "deprecated"
+    ]
+  },
+  "Corruption": {
+    "NAME": "蚀变",
+    "DESCRIPTION": "诸技牌耗竭为无。 NL 诸技牌出时即 消尽 。"
+  },
+  "Creative AI": {
+    "NAME": "创生智",
+    "DESCRIPTION": "每回合初，添一张随 能 牌入手。"
+  },
+  "Crippling Poison": {
+    "NAME": "残毒",
+    "DESCRIPTION": "予众敌各 !M! 重 毒 并2重 衰 。 NL 消尽 。"
+  },
+  "Dagger Spray": {
+    "NAME": "匕雨",
+    "DESCRIPTION": "予众敌各 !D! 创，复施一次。"
+  },
+  "Dagger Throw": {
+    "NAME": "掷匕",
+    "DESCRIPTION": "施 !D! 创。 NL 抽一牌。 NL 弃一牌。"
+  },
+  "Dark Embrace": {
+    "NAME": "暗拥",
+    "DESCRIPTION": "每有一牌 消尽 时，抽1牌。"
+  },
+  "Dark Shackles": {
+    "NAME": "暗枷",
+    "DESCRIPTION": "使一敌此回合失 !M! 力 。 NL 消尽 。"
+  },
+  "Darkness": {
+    "NAME": "幽暗",
+    "DESCRIPTION": "化 !M! 颗 暗 球。",
+    "UPGRADE_DESCRIPTION": "生成 !M! 个 黑暗 充能球。 NL 使用所有 黑暗 充能球 的被动能力。"
+  },
+  "Dash": {
+    "NAME": "疾冲",
+    "DESCRIPTION": "得 !B! 御 。 NL 施 !D! 创。"
+  },
+  "Dazed": {
+    "NAME": "眩惑",
+    "DESCRIPTION": "不可出 。 NL 空无 。"
+  },
+  "Deadly Poison": {
+    "NAME": "绝命毒",
+    "DESCRIPTION": "予 !M! 重 毒 。"
+  },
+  "Decay": {
+    "NAME": "朽败",
+    "DESCRIPTION": "不可出 。 NL 回合终时，受2创。"
+  },
+  "Deep Breath": {
+    "NAME": "深息",
+    "DESCRIPTION": "弃牌堆洗之入抽牌堆。 NL 抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "将你的弃牌堆洗牌后放入你的抽牌堆。 NL 抽 !M! 张牌。"
+  },
+  "Defend_B": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "Defend_G": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "Defend_R": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "Deflect": {
+    "NAME": "偏转",
+    "DESCRIPTION": "得 !B! 御 。"
+  },
+  "Defragment": {
+    "NAME": "凝碎",
+    "DESCRIPTION": "得 !M! 专注 。"
+  },
+  "Demon Form": {
+    "NAME": "魔相",
+    "DESCRIPTION": "每回合初得 NL !M! 力 。"
+  },
+  "Die Die Die": {
+    "NAME": "灭灭灭",
+    "DESCRIPTION": "予众敌各 !D! 创。 NL 消尽 。"
+  },
+  "Disarm": {
+    "NAME": "卸兵",
+    "DESCRIPTION": "使敌失 !M! 力 。 NL 消尽 。"
+  },
+  "Distraction": {
+    "NAME": "惑敌",
+    "DESCRIPTION": "添一张随技牌入手。 NL 此牌此回合耗竭为无。 NL 消尽 。"
+  },
+  "Dodge and Roll": {
+    "NAME": "闪转",
+    "DESCRIPTION": "得 !B! 御 。 NL 下回合得 !B! 御 。"
+  },
+  "Doom and Gloom": {
+    "NAME": "惨黯",
+    "DESCRIPTION": "予众敌各 !D! 创。 NL 化 !M! 颗 暗 球。"
+  },
+  "Doppelganger": {
+    "NAME": "双影",
+    "DESCRIPTION": "下回合，抽X牌，得X [G] 。 NL 消尽 。",
+    "UPGRADE_DESCRIPTION": "下一回合，抽X+1张牌，获得X+1 [G] 。 NL 消耗 。"
+  },
+  "Double Energy": {
+    "NAME": "倍能",
+    "DESCRIPTION": "汝之 能 倍之。 NL 消尽 。",
+    "UPGRADE_DESCRIPTION": "将你的 能量 翻倍。"
+  },
+  "Double Tap": {
+    "NAME": "双击",
+    "DESCRIPTION": "此回合，次张攻牌复施一次。",
+    "UPGRADE_DESCRIPTION": "在这个回合，你打出的下 !M! 张攻击牌会打出两次。"
+  },
+  "Doubt": {
+    "NAME": "疑贰",
+    "DESCRIPTION": "不可出 。 NL 回合终时，得1重 衰 。"
+  },
+  "Dramatic Entrance": {
+    "NAME": "煌临",
+    "DESCRIPTION": "固有 。 NL 予众敌各 !D! 创。 NL 消尽 。"
+  },
+  "Dropkick": {
+    "NAME": "跃踢",
+    "DESCRIPTION": "施 !D! 创。 NL 若敌具 破绽 ， NL 得 [R] 且 NL 抽1牌。"
+  },
+  "Dual Wield": {
+    "NAME": "双执",
+    "DESCRIPTION": "复制手牌中一张 攻 或 能 牌。",
+    "UPGRADE_DESCRIPTION": "将你手牌中的一张 攻击 或 能力 牌复制两张。"
+  },
+  "Dualcast": {
+    "NAME": "双放",
+    "DESCRIPTION": "激发 汝最右球二次。"
+  },
+  "Echo Form": {
+    "NAME": "回响之形",
+    "DESCRIPTION": "每轮首张牌将二度奏效。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "你每回合打出的第一张牌会打出两次。"
+  },
+  "Electrodynamics": {
+    "NAME": "电驭之理",
+    "DESCRIPTION": "雷球今可击众敌。 NL 生 !M! 枚雷球。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Endless Agony": {
+    "NAME": "无尽痛楚",
+    "DESCRIPTION": "施 !D! 伤。 NL 每抽此牌，添其影于掌中。 NL 消弭 。"
+  },
+  "Energy Pulse": {
+    "NAME": "能量涟漪",
+    "DESCRIPTION": "得当前精力之御值。",
+    "UPGRADE_DESCRIPTION": "获得你当前 能量 两倍的 格挡 值。"
+  },
+  "Enlightenment": {
+    "NAME": "顿悟",
+    "DESCRIPTION": "此轮间，掌中诸牌耗皆降为一。",
+    "UPGRADE_DESCRIPTION": "在本场战斗，你当前手牌中所有牌的耗能降低到1。"
+  },
+  "Entrench": {
+    "NAME": "固守",
+    "DESCRIPTION": "使现时御值倍之。",
+    "UPGRADE_DESCRIPTION": "将你当前的 格挡 翻倍。"
+  },
+  "Envenom": {
+    "NAME": "淬毒",
+    "DESCRIPTION": "攻之破御者，赐一层毒。"
+  },
+  "Escape Plan": {
+    "NAME": "遁走之策",
+    "DESCRIPTION": "抽一牌。 NL 若得技牌，获 !B! 御。"
+  },
+  "Eviscerate": {
+    "NAME": "剖腑",
+    "DESCRIPTION": "此轮每弃一牌，耗减一 [G] 。 NL 施 !D! 伤三度。"
+  },
+  "Evolve": {
+    "NAME": "蜕化",
+    "DESCRIPTION": "每抽状态牌时，抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "每当你抽到一张 状态牌 时，抽 !M! 张牌。"
+  },
+  "Exhume": {
+    "NAME": "掘秘",
+    "DESCRIPTION": "择一已消之牌，纳于掌中。 NL 消弭 。"
+  },
+  "Expertise": {
+    "NAME": "秘技",
+    "DESCRIPTION": "抽牌直至掌中存 !M! 牌。"
+  },
+  "FTL": {
+    "NAME": "越光",
+    "DESCRIPTION": "施 !D! 伤。 NL 若此轮出牌未达 !M! 张，抽一牌。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （已打出",
+      " 张牌。）",
+      " 张牌。）"
+    ]
+  },
+  "Feed": {
+    "NAME": "饕宴",
+    "DESCRIPTION": "施 !D! 伤。 NL 毙敌时，永增 !M! 命上限。 消弭 。"
+  },
+  "Feel No Pain": {
+    "NAME": "痛觉湮灭",
+    "DESCRIPTION": "每有一牌消弭，得 !M! 御。"
+  },
+  "Fiend Fire": {
+    "NAME": "魔焰",
+    "DESCRIPTION": "消弭掌中诸牌。 NL 每消一牌，施 !D! 伤。 NL 消弭 。"
+  },
+  "Finesse": {
+    "NAME": "巧策",
+    "DESCRIPTION": "得 !B! 御。 NL 抽一牌。"
+  },
+  "Finisher": {
+    "NAME": "终式",
+    "DESCRIPTION": "此轮每出一攻牌，即施一次 !D! 伤。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （你本回合打出过",
+      " 张攻击牌。）",
+      " 张攻击牌。）"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "炎息",
+    "DESCRIPTION": "每抽状态或咒诅牌时，伤众敌 !M! 。"
+  },
+  "Fission": {
+    "NAME": "崩解",
+    "DESCRIPTION": "尽除诸球，每除一球得 [B] 且抽 !M! 牌 。 NL 消弭 。",
+    "UPGRADE_DESCRIPTION": "激发 所有 充能球 ，每激发一个充能球获得 [B] 并抽 !M! 张牌 。 NL 消耗 。"
+  },
+  "Flame Barrier": {
+    "NAME": "炎障",
+    "DESCRIPTION": "得 !B! 御。 NL 此轮每受一击，皆反伤攻者 !M! 。"
+  },
+  "Flash of Steel": {
+    "NAME": "剑芒一闪",
+    "DESCRIPTION": "施 !D! 伤。 NL 抽一牌。"
+  },
+  "Flechettes": {
+    "NAME": "飞矢",
+    "DESCRIPTION": "掌中每存一技牌，即施 !D! 伤。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （你有",
+      " 张技能牌。）",
+      " 张技能牌。）"
+    ]
+  },
+  "Flex": {
+    "NAME": "筋肉迸发",
+    "DESCRIPTION": "获 !M! 力。 NL 轮终时，失 !M! 力。"
+  },
+  "Flux Capacitor": {
+    "NAME": "流容器",
+    "DESCRIPTION": "尽易诸球为等离子球。 NL 消弭 。"
+  },
+  "Flying Knee": {
+    "NAME": "跃膝",
+    "DESCRIPTION": "施 !D! 伤。 NL 下轮得 [G] 。"
+  },
+  "Footwork": {
+    "NAME": "迷踪步",
+    "DESCRIPTION": "获 !M! 敏。"
+  },
+  "Force Field": {
+    "NAME": "罡场",
+    "DESCRIPTION": "此战中每出一能牌，耗减一 [B] 。 NL 得 !B! 御。"
+  },
+  "Fusion": {
+    "NAME": "融合",
+    "DESCRIPTION": "生 !M! 枚等离子球。"
+  },
+  "Gash": {
+    "NAME": "裂爪",
+    "DESCRIPTION": "施 !D! 伤。 NL 此战中诸裂爪牌伤增 !M! 。"
+  },
+  "Genetic Algorithm": {
+    "NAME": "传承玄法",
+    "DESCRIPTION": "得 !B! 御。 NL 每施一次，此牌御值永增 !M! 。 NL 消弭 。"
+  },
+  "Ghostly": {
+    "NAME": "幽魄",
+    "DESCRIPTION": "获一层虚无形。 NL 消弭 。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "获得1层 无实体 。 NL 消耗 。 "
+  },
+  "Ghostly Armor": {
+    "NAME": "幽铠",
+    "DESCRIPTION": "虚无 。 NL 得 !B! 御。"
+  },
+  "Glacier": {
+    "NAME": "冰峦",
+    "DESCRIPTION": "得 !B! 御。 NL 生 !M! 枚霜球。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 生成 !M! 个 冰霜 充能球。"
+  },
+  "Glass Knife": {
+    "NAME": "璃刃",
+    "DESCRIPTION": "施 !D! 伤二度。 NL 每施此牌，此战基伤减二。"
+  },
+  "Go for the Eyes": {
+    "NAME": "袭目",
+    "DESCRIPTION": "施 !D! 伤。 NL 若敌欲攻，赐其 !M! 层衰弱的。"
+  },
+  "Good Instincts": {
+    "NAME": "灵觉",
+    "DESCRIPTION": "得 !B! 御。"
+  },
+  "Grand Finale": {
+    "NAME": "终幕华彩",
+    "DESCRIPTION": "惟抽牌堆空时可施。 NL 伤众敌 !D! 。",
+    "UPGRADE_DESCRIPTION": "我的抽牌堆必须是 #r空的。 "
+  },
+  "Havoc": {
+    "NAME": "崩毁",
+    "DESCRIPTION": "施抽牌堆顶之牌，使之消弭。"
+  },
+  "Headbutt": {
+    "NAME": "首撞",
+    "DESCRIPTION": "施 !D! 伤。 NL 移弃牌堆一牌置抽牌堆顶。"
+  },
+  "Heatsinks": {
+    "NAME": "散炎片",
+    "DESCRIPTION": "每出一能牌，抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "你每打出一张能力牌，抽 !M! 张牌。"
+  },
+  "Heavy Blade": {
+    "NAME": "重锋",
+    "DESCRIPTION": "施 !D! 伤。 NL 力于重锋效增 !M! 倍。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 力量 在 重刃 上发挥 !M! 倍效果。"
+  },
+  "Heel Hook": {
+    "NAME": "踵钩",
+    "DESCRIPTION": "施 !D! 伤。 NL 若敌带衰弱， NL 得 [G] 且 NL 抽一牌。"
+  },
+  "Hello World": {
+    "NAME": "昭世",
+    "DESCRIPTION": "轮启时，添一随机凡牌于掌中。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合开始时，增加一张随机普通牌到你的手牌。"
+  },
+  "Hemokinesis": {
+    "NAME": "血驭术",
+    "DESCRIPTION": "失 !M! 命。 NL 施 !D! 伤。"
+  },
+  "Hide": {
+    "NAME": "隐遁",
+    "DESCRIPTION": "汝之气血不可失，直至次轮起始。NL 消尽。"
+  },
+  "Hologram": {
+    "NAME": "虚像幻影",
+    "DESCRIPTION": "得 !B! 御守 。NL 自弃牌堆取一牌入手。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 将弃牌堆中的一张牌放入你的手牌。"
+  },
+  "Hyperbeam": {
+    "NAME": "神光射线",
+    "DESCRIPTION": "伤诸敌 !D! 。NL 失 !M! 凝神。"
+  },
+  "Immolate": {
+    "NAME": "焚献",
+    "DESCRIPTION": "伤诸敌 !D! 。NL 置 *灼伤 入汝弃牌堆。"
+  },
+  "Impervious": {
+    "NAME": "磐石固",
+    "DESCRIPTION": "得 !B! 御守 。NL 消尽。"
+  },
+  "Infernal Blade": {
+    "NAME": "冥府刃",
+    "DESCRIPTION": "添随机攻牌入手。NL 此牌本轮回气耗为零。NL 消尽。"
+  },
+  "Infinite Blades": {
+    "NAME": "无尽刃",
+    "DESCRIPTION": "回合起始时，添 *小刀 入手。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你的回合开始时，增加一张 *小刀 到你的手牌。"
+  },
+  "Inflame": {
+    "NAME": "焚身",
+    "DESCRIPTION": "得 !M! 劲力。"
+  },
+  "Injury": {
+    "NAME": "创痕",
+    "DESCRIPTION": "不可施放。"
+  },
+  "Intimidate": {
+    "NAME": "慑敌",
+    "DESCRIPTION": "予诸敌 !M! 层衰颓。NL 消尽。"
+  },
+  "Iron Wave": {
+    "NAME": "铁刃波",
+    "DESCRIPTION": "得 !B! 御守 。NL 伤 !D! 。"
+  },
+  "J.A.X.": {
+    "NAME": "甲士",
+    "DESCRIPTION": "失三气血。NL 得 !M! 劲力。"
+  },
+  "Jack Of All Trades": {
+    "NAME": "千机变",
+    "DESCRIPTION": "添 !M! 随机无色牌入手。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "增加 !M! 张随机无色牌到你的手牌。 NL 消耗 。"
+  },
+  "Juggernaut": {
+    "NAME": "破军势",
+    "DESCRIPTION": "每得御守时，NL 伤随机一敌 NL !M! 。"
+  },
+  "Leap": {
+    "NAME": "腾跃",
+    "DESCRIPTION": "得 !B! 御守。"
+  },
+  "Leg Sweep": {
+    "NAME": "扫堂腿",
+    "DESCRIPTION": "予 !M! 层衰颓。NL 得 !B! 御守。"
+  },
+  "Limit Break": {
+    "NAME": "破限",
+    "DESCRIPTION": "汝之劲力倍增。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "将你的 力量 翻倍。"
+  },
+  "Lockon": {
+    "NAME": "锁的",
+    "DESCRIPTION": "伤 !D! 。NL 予敌 !M! 回锁踪效。"
+  },
+  "Loop": {
+    "NAME": "周回",
+    "DESCRIPTION": "回合起始时，用汝最右充能球之被动。",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时，使用你最右侧的1个充能球的被动能力 !M! 次。"
+  },
+  "Machine Learning": {
+    "NAME": "机学",
+    "DESCRIPTION": "每回合起始时，额外抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 在每回合开始时额外抽 !M! 张牌。"
+  },
+  "Madness": {
+    "NAME": "狂乱",
+    "DESCRIPTION": "汝手牌中随机一牌本战气耗为零。NL 消尽。"
+  },
+  "Magnetism": {
+    "NAME": "磁引",
+    "DESCRIPTION": "每回合起始时，添随机无色牌入手。"
+  },
+  "Malaise": {
+    "NAME": "颓唐",
+    "DESCRIPTION": "敌失X劲力，予X层衰颓。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "敌人失去X+1点 力量 ，给予X+1层 虚弱 。 NL 消耗 。"
+  },
+  "Master of Strategy": {
+    "NAME": "策圣",
+    "DESCRIPTION": "抽 !M! 牌。NL 消尽。"
+  },
+  "Masterful Stab": {
+    "NAME": "妙刺",
+    "DESCRIPTION": "伤 !D! 。NL 汝每受创，此牌气耗增一。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Melter": {
+    "NAME": "熔毁",
+    "DESCRIPTION": "除一敌所有御守值。NL 伤 !D! 。"
+  },
+  "Metallicize": {
+    "NAME": "金身",
+    "DESCRIPTION": "回合终了时，得 !M! 御守。"
+  },
+  "Meteor Strike": {
+    "NAME": "陨击",
+    "DESCRIPTION": "伤 !D! 。NL 生 !M! 等离子充能球。"
+  },
+  "Mind Blast": {
+    "NAME": "心震",
+    "DESCRIPTION": "固有。NL 伤如抽牌堆余牌之数。",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）"
+    ]
+  },
+  "Multi-Cast": {
+    "NAME": "多重施",
+    "DESCRIPTION": "激发汝最右充能球X次。",
+    "UPGRADE_DESCRIPTION": "激发 你最右侧的充能球X+1次。"
+  },
+  "Necronomicurse": {
+    "NAME": "死咒",
+    "DESCRIPTION": "不可施放。NL 此咒无可遁。"
+  },
+  "Neutralize": {
+    "NAME": "化劲",
+    "DESCRIPTION": "伤 !D! 。NL 予 !M! 层衰颓。"
+  },
+  "Night Terror": {
+    "NAME": "夜惧",
+    "DESCRIPTION": "择一牌，NL 次回合，置 !M! 份此牌复本入手。消尽。",
+    "EXTENDED_DESCRIPTION": [
+      "我每回合只能使用 NL ",
+      " NL 一次。"
+    ]
+  },
+  "Normality": {
+    "NAME": "平庸",
+    "DESCRIPTION": "不可施放。NL 在手牌中时，汝此回合不可施逾三张牌。",
+    "EXTENDED_DESCRIPTION": [
+      "我这回合最多 NL 只能打出 #r3 张牌。",
+      "不能被打出 。 NL 在手牌中时，你在此回合无法打出 ",
+      " 张以上牌。",
+      " 张以上牌。 NL 你本回合已经打出 ",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "瘴雾",
+    "DESCRIPTION": "回合起始时，予诸敌 !M! 层剧毒。"
+  },
+  "Offering": {
+    "NAME": "献祭",
+    "DESCRIPTION": "失六气血。NL 得 [R] [R] 。NL 抽 !M! 牌。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "失去 6 点生命。 NL 获得 [R] [R] 。 NL 抽 !M! 张牌。 NL 消耗 。"
+  },
+  "Outmaneuver": {
+    "NAME": "夺先",
+    "DESCRIPTION": "次回合 NL 得 [G] [G] 。",
+    "UPGRADE_DESCRIPTION": "下一回合 NL 获得 [G] [G] [G] 。"
+  },
+  "Pain": {
+    "NAME": "痛楚",
+    "DESCRIPTION": "不可施放。NL 在手牌中时，每施他牌，失一气血。"
+  },
+  "Panacea": {
+    "NAME": "灵药",
+    "DESCRIPTION": "得 !M! 层巧械。NL 消尽。"
+  },
+  "Panache": {
+    "NAME": "气胜",
+    "DESCRIPTION": "汝每于同回合施五牌，则伤诸敌 !M! 。"
+  },
+  "Parasite": {
+    "NAME": "寄体",
+    "DESCRIPTION": "不可施放。NL 若此牌于汝牌组中被化或除，汝失三最大气血。"
+  },
+  "Perfected Strike": {
+    "NAME": "完击",
+    "DESCRIPTION": "伤 !D! 。NL 汝每有一名含打击之牌，伤增二。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+3。"
+  },
+  "Phantasmal Killer": {
+    "NAME": "幻杀",
+    "DESCRIPTION": "于汝次回合，汝所有攻伤倍增。"
+  },
+  "PiercingWail": {
+    "NAME": "锐嚎",
+    "DESCRIPTION": "诸敌失 !M! 劲力一回。NL 消尽。"
+  },
+  "Poisoned Stab": {
+    "NAME": "毒刺",
+    "DESCRIPTION": "伤 !D! 。NL 予 !M! 层剧毒。"
+  },
+  "Pommel Strike": {
+    "NAME": "柄击",
+    "DESCRIPTION": "伤 !D! 。NL 抽 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌。"
+  },
+  "Power Through": {
+    "NAME": "强撑",
+    "DESCRIPTION": "添二创痕入手。 NL 得 !B! 御。"
+  },
+  "Predator": {
+    "NAME": "狩者",
+    "DESCRIPTION": "施 !D! 创。 NL 次轮多掣二牌。"
+  },
+  "Prepared": {
+    "NAME": "预筹",
+    "DESCRIPTION": "掣 !M! 牌。 NL 弃 !M! 牌。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 丢弃 !M! 张牌。"
+  },
+  "Pummel": {
+    "NAME": "连拳",
+    "DESCRIPTION": "施 !D! 创 !M! 回。 NL 消。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 !M! 次。 NL 消耗 。"
+  },
+  "Purity": {
+    "NAME": "净",
+    "DESCRIPTION": "择掌中至多 !M! 牌消之。 NL 消。"
+  },
+  "Quick Slash": {
+    "NAME": "疾斩",
+    "DESCRIPTION": "施 !D! 创。 NL 掣一牌。"
+  },
+  "Rage": {
+    "NAME": "狂怒",
+    "DESCRIPTION": "出此牌后，此轮每出一击牌，得 !M! 御。"
+  },
+  "Rainbow": {
+    "NAME": "虹",
+    "DESCRIPTION": "化雷、霜、黯灵珠各一。 NL 消。",
+    "UPGRADE_DESCRIPTION": "生成 闪电 、 冰霜 、 黑暗 充能球各一个。"
+  },
+  "Rampage": {
+    "NAME": "暴走",
+    "DESCRIPTION": "施 !D! 创。 NL 此牌每出一回，此战中其创增 !M! 。"
+  },
+  "Reaper": {
+    "NAME": "死收",
+    "DESCRIPTION": "施 !D! 创于诸敌。未御之创复汝命。 NL 消。"
+  },
+  "Reboot": {
+    "NAME": "重起",
+    "DESCRIPTION": "尽收未消之牌重洗入掣堆。 NL 掣 !M! 牌。 NL 消。"
+  },
+  "Rebound": {
+    "NAME": "回弹",
+    "DESCRIPTION": "施 !D! 创。 NL 此轮次出之牌将置掣堆顶。（唯入弃堆者）"
+  },
+  "Reckless Charge": {
+    "NAME": "莽冲",
+    "DESCRIPTION": "施 !D! 创。 NL 置一 *眩 入汝掣堆。"
+  },
+  "Recycle": {
+    "NAME": "回炼",
+    "DESCRIPTION": "消一牌。 NL 得其耗能等 [B] 。"
+  },
+  "Redo": {
+    "NAME": "再演",
+    "DESCRIPTION": "发汝极右灵珠。 NL 复化方才所发之灵珠。"
+  },
+  "Reflex": {
+    "NAME": "机应",
+    "DESCRIPTION": "不可出。 NL 若此牌自掌中弃之，掣 !M! 牌。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果这张牌从你的手牌中被丢弃，抽 !M! 张牌。",
+    "EXTENDED_DESCRIPTION": [
+      "这张牌不能被打出。"
+    ]
+  },
+  "Regret": {
+    "NAME": "悔恨",
+    "DESCRIPTION": "不可出。 NL 轮尽时，失如掌中牌数之命。"
+  },
+  "Reinforced Body": {
+    "NAME": "刚躯",
+    "DESCRIPTION": "得 !B! 御 X 回。"
+  },
+  "Reprogram": {
+    "NAME": "重铸",
+    "DESCRIPTION": "失 !M! 聚。 NL 得 !M! 力。 NL 得 !M! 敏。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Riddle With Holes": {
+    "NAME": "百穿孔",
+    "DESCRIPTION": "施 !D! 创五回。"
+  },
+  "Rip and Tear": {
+    "NAME": "狂撕扯",
+    "DESCRIPTION": "随机施 !D! 创 !M! 回于敌。"
+  },
+  "Rupture": {
+    "NAME": "裂创",
+    "DESCRIPTION": "每自一牌失命时，得 !M! 力。"
+  },
+  "Sadistic Nature": {
+    "NAME": "虐性",
+    "DESCRIPTION": "每予一敌负面状，使其受 !M! 创。"
+  },
+  "Scrape": {
+    "NAME": "刮削",
+    "DESCRIPTION": "施 !D! 创。 NL 掣 !M! 牌。 NL 弃所掣中耗非零之牌。"
+  },
+  "Searing Blow": {
+    "NAME": "灼击",
+    "DESCRIPTION": "施 !D! 创。 NL 可多次升。"
+  },
+  "Second Wind": {
+    "NAME": "再奋",
+    "DESCRIPTION": "消掌中诸非击牌，每牌得 !B! 御。"
+  },
+  "Secret Technique": {
+    "NAME": "秘技",
+    "DESCRIPTION": "自掣堆择一技牌入手。 NL 消。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆中选择一张技能牌放入你的手牌。",
+    "EXTENDED_DESCRIPTION": [
+      "我的抽牌堆中 NL 没有技能牌。"
+    ]
+  },
+  "Secret Weapon": {
+    "NAME": "秘兵",
+    "DESCRIPTION": "自掣堆择一击牌入手。 NL 消。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆中选择一张攻击牌放入你的手牌。",
+    "EXTENDED_DESCRIPTION": [
+      "我的抽牌堆中 NL 没有攻击牌。"
+    ]
+  },
+  "Seeing Red": {
+    "NAME": "盛怒",
+    "DESCRIPTION": "得 [R] [R] 。 NL 消。"
+  },
+  "Seek": {
+    "NAME": "寻索",
+    "DESCRIPTION": "自掣堆择 !M! 牌入手。 NL 消。",
+    "UPGRADE_DESCRIPTION": "从抽牌堆中选择 !M! 张牌放入你的手牌。 NL 消耗 。"
+  },
+  "Self Repair": {
+    "NAME": "自愈",
+    "DESCRIPTION": "战毕时，复 !M! 命。"
+  },
+  "Sentinel": {
+    "NAME": "哨卫",
+    "DESCRIPTION": "得 !B! 御。 NL 若此牌被消， NL 得 [R] [R] 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 如果这张牌被 消耗 ， NL 获得 [R] [R] [R] 。"
+  },
+  "Setup": {
+    "NAME": "布设",
+    "DESCRIPTION": "置掌中一牌于掣堆顶。 NL 且其出前，耗能化零。"
+  },
+  "Sever Soul": {
+    "NAME": "断魂斩",
+    "DESCRIPTION": "消掌中诸非击牌。 NL 施 !D! 创。"
+  },
+  "Shiv": {
+    "NAME": "飞刃",
+    "DESCRIPTION": "施 !D! 创。 NL 消。"
+  },
+  "Shockwave": {
+    "NAME": "震波",
+    "DESCRIPTION": "予诸敌 !M! 层弱与脆。 NL 消。"
+  },
+  "Shrug It Off": {
+    "NAME": "耸御",
+    "DESCRIPTION": "得 !B! 御。 NL 掣一牌。"
+  },
+  "Skewer": {
+    "NAME": "串刺",
+    "DESCRIPTION": "施 !D! 创 X 回。"
+  },
+  "Skim": {
+    "NAME": "疾览",
+    "DESCRIPTION": "掣 !M! 牌。"
+  },
+  "Slice": {
+    "NAME": "切斩",
+    "DESCRIPTION": "施 !D! 创。"
+  },
+  "Slimed": {
+    "NAME": "黏涎",
+    "DESCRIPTION": "消。"
+  },
+  "Spot Weakness": {
+    "NAME": "窥弱",
+    "DESCRIPTION": "若一敌意欲击，汝得 !M! 力。"
+  },
+  "Stack": {
+    "NAME": "叠御",
+    "DESCRIPTION": "得如当前弃堆牌数之御值。",
+    "UPGRADE_DESCRIPTION": "获得你当前弃牌堆中牌数+3的 格挡 值。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （获得 !B! 点 格挡 。）"
+    ]
+  },
+  "Static Discharge": {
+    "NAME": "静释",
+    "DESCRIPTION": "每受未御击创时，化 !M! 雷灵珠。",
+    "UPGRADE_DESCRIPTION": "每当你受到未被格挡的攻击伤害时， 生成 !M! 个 闪电 充能球。"
+  },
+  "Steam": {
+    "NAME": "汽壁",
+    "DESCRIPTION": "得 !B! 御。 NL 此牌每出一回，此战中其基御减一。"
+  },
+  "Steam Power": {
+    "NAME": "超频",
+    "DESCRIPTION": "掣 !M! 牌。 NL 置一 *灼 入汝弃堆。"
+  },
+  "Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTION": "每出一能牌，化一雷灵珠。",
+    "UPGRADE_DESCRIPTION": "固有 。 NL 你每打出一张能力牌，生成 1 个 闪电 充能球。"
+  },
+  "Storm of Steel": {
+    "NAME": "钢岚",
+    "DESCRIPTION": "尽弃掌中牌。 NL 每弃一牌，汝掌中添一 *飞刃 。",
+    "UPGRADE_DESCRIPTION": "丢弃所有手牌。 NL 每丢弃一张牌，在你的手牌中增加一张 *小刀+ 。"
+  },
+  "Streamline": {
+    "NAME": "流线之改良",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 每出此牌一度，战中之能耗减 !M! 。"
+  },
+  "Strike_B": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Strike_G": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Strike_R": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Sucker Punch": {
+    "NAME": "不意之拳",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 予 !M! 重 弱虚 。"
+  },
+  "Sunder": {
+    "NAME": "裂分",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 若此牌毙敌，则得 [B] [B] [B] 。"
+  },
+  "Survivor": {
+    "NAME": "存续者",
+    "DESCRIPTION": "获 !B! 点 格挡 。 NL 弃一张牌。"
+  },
+  "Sweeping Beam": {
+    "NAME": "扫荡之束",
+    "DESCRIPTION": "对所有敌施 !D! 点伤损。 NL 抽 !M! 张牌。"
+  },
+  "Swift Strike": {
+    "NAME": "疾速击打",
+    "DESCRIPTION": "施 !D! 点伤损。"
+  },
+  "Sword Boomerang": {
+    "NAME": "剑之回旋",
+    "DESCRIPTION": "随机对敌施 !D! 点伤损 !M! 次。"
+  },
+  "Tactician": {
+    "NAME": "策术大师",
+    "DESCRIPTION": " 不可打出 。 NL 若此牌自手牌弃之，则得 [G] 。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 如果这张牌从你的手牌中被丢弃，获得 [G] [G] 。",
+    "EXTENDED_DESCRIPTION": [
+      "这张牌不能被打出。"
+    ]
+  },
+  "Tempest": {
+    "NAME": "暴风骤雨",
+    "DESCRIPTION": "生 X 个 闪电 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "生成 X+1 个 闪电 充能球。 NL 消耗 。"
+  },
+  "Terror": {
+    "NAME": "惊怖",
+    "DESCRIPTION": "予99重 易伤 。 NL 消耗 。"
+  },
+  "The Bomb": {
+    "NAME": "爆弹",
+    "DESCRIPTION": "三回合尽时，对所有敌施 !M! 点伤损。"
+  },
+  "Thinking Ahead": {
+    "NAME": "远虑深谋",
+    "DESCRIPTION": "抽二牌，后置手牌一张于抽牌堆顶。 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽2张牌，然后将手牌中的一张牌放到你抽牌堆的顶端。"
+  },
+  "Thunder Strike": {
+    "NAME": "雷霆击打",
+    "DESCRIPTION": "本战中每生一 闪电 充能球，则随机施一次 !D! 点伤损。",
+    "EXTENDED_DESCRIPTION": [
+      "（共 !M! 次。）"
+    ]
+  },
+  "Thunderclap": {
+    "NAME": "霹雳闪电",
+    "DESCRIPTION": "对所有敌施 !D! 点伤损，予1重 易伤 。"
+  },
+  "Tools of the Trade": {
+    "NAME": "必备之器",
+    "DESCRIPTION": "回合启时，抽一牌，弃一牌。"
+  },
+  "Transmutation": {
+    "NAME": "转形",
+    "DESCRIPTION": "手牌中添 X 张随机无色牌。 其本回合能耗化零。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张 升级 过的随机无色牌。 它们在本回合的耗能变为0。 NL 消耗 。"
+  },
+  "Trip": {
+    "NAME": "绊跌",
+    "DESCRIPTION": "予 !M! 重 易伤 。",
+    "UPGRADE_DESCRIPTION": "给予所有敌人 !M! 层 易伤 。"
+  },
+  "True Grit": {
+    "NAME": "坚忍",
+    "DESCRIPTION": "获 !B! 点 格挡 。 NL 消耗 一张随机手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 消耗 一张手牌。"
+  },
+  "Turbo": {
+    "NAME": "内核疾转",
+    "DESCRIPTION": "得 [B] [B] 。 NL 置一张 *虚空 于弃牌堆。",
+    "UPGRADE_DESCRIPTION": "获得 [B] [B] [B] 。 NL 将一张 *虚空 放入你的弃牌堆中。"
+  },
+  "Twin Strike": {
+    "NAME": "双生击打",
+    "DESCRIPTION": "施 !D! 点伤损二度。"
+  },
+  "Underhanded Strike": {
+    "NAME": "阴秘击打",
+    "DESCRIPTION": " 施 !D! 点伤损。 NL 若本回合曾弃牌，则得 [G] [G] 。",
+    "EXTENDED_DESCRIPTION": [
+      "这张牌不能被打出。"
+    ]
+  },
+  "Undo": {
+    "NAME": "复衡",
+    "DESCRIPTION": "获 !B! 点 格挡 。 NL 本回合 保留 手牌。"
+  },
+  "Unload": {
+    "NAME": "孤注一掷",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 弃尽非攻牌。"
+  },
+  "Uppercut": {
+    "NAME": "上勾之拳",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 予 !M! 重 弱虚 。 NL 予 !M! 重 易伤 。"
+  },
+  "Venomology": {
+    "NAME": "炼制药剂",
+    "DESCRIPTION": "获一瓶随机药水。 NL 消耗 。"
+  },
+  "Void": {
+    "NAME": "虚无",
+    "DESCRIPTION": "不可打出 。 NL 抽此牌时失1点能量。 NL 虚无 。"
+  },
+  "Warcry": {
+    "NAME": "战嚎",
+    "DESCRIPTION": "抽 !M! 张牌。 NL 置手牌一张于抽牌堆顶。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 将手牌中的一张牌放到你的抽牌堆顶部。 NL 消耗 。"
+  },
+  "Well Laid Plans": {
+    "NAME": "谋定后动",
+    "DESCRIPTION": "回合终时， 保留 至多 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "在你的回合结束时， 保留 最多 !M! 张牌。"
+  },
+  "Whirlwind": {
+    "NAME": "旋风斩击",
+    "DESCRIPTION": "对所有敌施 !D! 点伤损 X 次。"
+  },
+  "White Noise": {
+    "NAME": "白噪之声",
+    "DESCRIPTION": "手牌中添一张随机能力牌。 NL 此牌本回合能耗化零。 NL 消耗 。"
+  },
+  "Wild Strike": {
+    "NAME": "狂野击打",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 置一张 *伤口 于抽牌堆。"
+  },
+  "Wound": {
+    "NAME": "创口",
+    "DESCRIPTION": " 不可打出 。"
+  },
+  "Wraith Form v2": {
+    "NAME": "幽魂之形",
+    "DESCRIPTION": "获 !M! 重 无实体 。 NL 每回合终时失1点 敏捷 。"
+  },
+  "Writhe": {
+    "NAME": "苦楚",
+    "DESCRIPTION": " 不可打出 。 NL 固有 。"
+  },
+  "Zap": {
+    "NAME": "电殛",
+    "DESCRIPTION": "生 !M! 个 闪电 充能球。"
+  },
+  "Core Surge": {
+    "NAME": "核心涌流",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 获 !M! 重 人工制品 。 NL 消耗 。"
+  },
+  "Compile Driver": {
+    "NAME": "编译冲击",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 每有一种异 充能球 ，则抽 !M! 张牌。"
+  },
+  "RitualDagger": {
+    "NAME": "仪式短刃",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 斩杀 时，本局中伤损永增 !M! 。 NL 消耗 。"
+  },
+  "Pride": {
+    "NAME": "骄矜",
+    "DESCRIPTION": "固有 。 消耗 。 NL 回合终时，于抽牌堆顶添此牌之复本。"
+  },
+  "PanicButton": {
+    "NAME": "应急之钮",
+    "DESCRIPTION": "获 !B! 点 格挡 。 NL 随后 !M! 回合内不得自牌获格挡。 NL 消耗 。"
+  },
+  "Chrysalis": {
+    "NAME": "成茧",
+    "DESCRIPTION": "抽牌堆中添 NL !M! 张随机技能牌。 其 NL 本战中能耗化零。 NL 消耗 。"
+  },
+  "Metamorphosis": {
+    "NAME": "蜕化",
+    "DESCRIPTION": "抽牌堆中添 NL !M! 张随机攻击牌。 其 NL 本战中能耗化零。 NL 消耗 。"
+  },
+  "Mayhem": {
+    "NAME": "混战",
+    "DESCRIPTION": "回合启时，打出抽牌堆顶之牌。"
+  },
+  "Shame": {
+    "NAME": "愧耻",
+    "DESCRIPTION": "不可打出 。 NL 回合终时，获1重 脆弱 。"
+  },
+  "HandOfGreed": {
+    "NAME": "贪欲之手",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 斩杀 时，得 !M! 金币。"
+  },
+  "Violence": {
+    "NAME": "暴戾",
+    "DESCRIPTION": "从汝抽牌堆中任意掣取 !M! 枚攻伐之牌入手。 NL 耗散 。"
+  },
+  "Impatience": {
+    "NAME": "焦躁",
+    "DESCRIPTION": "若手中无攻伐之牌，则掣 !M! 枚牌。"
+  },
+  "Forethought": {
+    "NAME": "先机",
+    "DESCRIPTION": "择手中一牌沉于抽牌堆底。 NL 此牌未打出前，耗竭化为虚无。",
+    "UPGRADE_DESCRIPTION": "将手牌中的任意张牌放到抽牌堆的底部。 NL 并且它们在被打出之前，耗能变为0。"
+  },
+  "Discovery": {
+    "NAME": "窥见",
+    "DESCRIPTION": "从三张天命牌中择一入手。此牌本轮耗竭归无。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": "从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。"
+  },
+  "SpiritShield": {
+    "NAME": "灵璧",
+    "DESCRIPTION": "每持一牌，得 !M! 点 障壁 。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （获得 !B! 点 格挡 。）"
+    ]
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED 辉光灵韵",
+    "DESCRIPTION": "耗散。 NL 轮始之际，掣一枚牌。 NL 存续 。"
+  },
+  "Wrath": {
+    "NAME": "狂怒",
+    "DESCRIPTION": "予受之攻伐伤害皆倍之。"
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED 通晓",
+    "DESCRIPTION": "入 宁境 或 狂怒 。 NL 耗散 。"
+  },
+  "Tantrum": {
+    "NAME": "泄愤",
+    "DESCRIPTION": "施 !D! 点伤创 !M! 度。 NL 堕 狂怒 。 NL 将此牌归于抽牌堆。"
+  },
+  "Adaptation": {
+    "NAME": "虎踞",
+    "DESCRIPTION": "每堕 狂怒 时，掣 !M! 枚牌。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
+  },
+  "Causality": {
+    "NAME": "因果轮转",
+    "DESCRIPTION": "掣牌直至手满。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 抽牌直到将手牌抽满。 NL 消耗 。"
+  },
+  "Devotion": {
+    "NAME": "虔心",
+    "DESCRIPTION": "轮始之际，得 !M! 重 真言 。"
+  },
+  "EmptyFist": {
+    "NAME": "空拳",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 脱当前 势态 。"
+  },
+  "Wisdom": {
+    "NAME": "慧识",
+    "DESCRIPTION": " 存续 。 NL 掣 !M! 枚牌。 NL 耗散 。"
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED 报应",
+    "DESCRIPTION": "每失气血，得 !M! 点 猛劲 。"
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED 流变",
+    "DESCRIPTION": "狂怒 ：入 宁境 。 NL 宁境 ：堕 狂怒 。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": "愤怒 ：进入 平静 。 NL 平静 ：进入 愤怒 。"
+  },
+  "Swivel": {
+    "NAME": "回旋",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 下一张攻伐之牌耗竭归无。"
+  },
+  "Wish": {
+    "NAME": "祈愿",
+    "DESCRIPTION": "择：得 !B! 重 甲胄 、 !D! 点 刚力 、 或 !M! 金铢 。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED 狂怒灵韵",
+    "DESCRIPTION": "得 !M! 点须臾刚力。 NL 轮始之际，得1点须臾刚力。存续。"
+  },
+  "DeusExMachina": {
+    "NAME": "天降神机",
+    "DESCRIPTION": " 不可施放 。 NL 掣得此牌时，入手 !M! 张 *神迹 ，而后 耗散 。"
+  },
+  "ThroughViolence": {
+    "NAME": "暴戾相易",
+    "DESCRIPTION": " 存续 。 NL 施 !D! 点伤创。 NL 耗散 。"
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Clarity": {
+    "NAME": "澄明",
+    "DESCRIPTION": "观抽牌堆顶 NL !M! 枚牌，择一入手。 NL 耗散 余牌。",
+    "UPGRADE_DESCRIPTION": "检视你抽牌堆顶部的 NL !M! 张牌，将1张加入手牌。 NL 消耗 其他牌。"
+  },
+  "WreathOfFlame": {
+    "NAME": "焰纹",
+    "DESCRIPTION": "下一张攻伐之牌多施 !M! 点伤创。"
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED 闪烁",
+    "DESCRIPTION": "施 !D! 点伤创。若此灭敌，此牌归手。"
+  },
+  "Alpha": {
+    "NAME": "初元",
+    "DESCRIPTION": "置一枚 *次元 入抽牌堆。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 将一张 *贝塔 放入你的抽牌堆中。 NL 消耗 。"
+  },
+  "FollowUp": {
+    "NAME": "追袭",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 若上一张施放为攻伐牌，得 [W] 。"
+  },
+  "Vault": {
+    "NAME": "翻腾",
+    "DESCRIPTION": "此轮终了后，再得一回合。 NL 终汝之轮。 NL 耗散 。"
+  },
+  "Windup": {
+    "NAME": "DEPRECATED 蓄势",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 得 !M! 点 猛劲 。"
+  },
+  "Wallop": {
+    "NAME": "棒喝",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 得等同未阻伤创之 障壁 。"
+  },
+  "Consecrate": {
+    "NAME": "祭献",
+    "DESCRIPTION": "予诸敌各施 !D! 点伤创。"
+  },
+  "Conclude": {
+    "NAME": "终局",
+    "DESCRIPTION": "予诸敌各施 !D! 点伤创。 NL 终汝之轮。"
+  },
+  "MasterReality": {
+    "NAME": "御实",
+    "DESCRIPTION": "战中暂得之牌皆受 升格 。"
+  },
+  "CleanseEvil": {
+    "NAME": "涤邪",
+    "DESCRIPTION": "入手 X 枚 *罚恶 。",
+    "UPGRADE_DESCRIPTION": "在你的手牌中加入 X 张 *惩恶+ 。"
+  },
+  "WindmillStrike": {
+    "NAME": "风车击",
+    "DESCRIPTION": " 存续 。 NL 施 !D! 点伤创。 NL 每存续一次，此牌伤创增 !M! 点。"
+  },
+  "Shield": {
+    "NAME": "DEPRECATED 护盾",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 存续 。 NL 耗散 。"
+  },
+  "LessonLearned": {
+    "NAME": "研学",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 毙敌 时， 升格 牌组中随机一牌。耗散。"
+  },
+  "Calm": {
+    "NAME": "宁境",
+    "DESCRIPTION": "脱 宁境 时，得 [W] [W] 。"
+  },
+  "ThirdEye": {
+    "NAME": "天目",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 窥见 !M! 。"
+  },
+  "Survey": {
+    "NAME": "DEPRECATED 勘察",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 得 !M! 点 猛劲 。"
+  },
+  "FlyingSleeves": {
+    "NAME": "云袖",
+    "DESCRIPTION": " 存续 。 NL 两度施 !D! 点伤创。"
+  },
+  "Wireheading": {
+    "NAME": "先觉",
+    "DESCRIPTION": "轮始之际， 窥见 !M! 。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Sanctity": {
+    "NAME": "圣域",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 若上一张施放为技牌，掣 !M! 枚牌。"
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED 护佑灵韵",
+    "DESCRIPTION": "得 !B! 点 障壁 。 NL 轮始之际，得 !M! 点障壁。存续。"
+  },
+  "Mastery": {
+    "NAME": "通晓",
+    "DESCRIPTION": "每欲将 势态 转为当前 势态 时，得 [B] 。"
+  },
+  "Beta": {
+    "NAME": "次元",
+    "DESCRIPTION": "置一枚 *终元 入抽牌堆。 NL 耗散 。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "FearNoEvil": {
+    "NAME": "无惧邪祟",
+    "DESCRIPTION": "施 !D! 点伤创。 NL 若标的之敌欲攻，则入 宁境 。"
+  },
+  "Perseverance": {
+    "NAME": "坚忍",
+    "DESCRIPTION": " 存续 。 NL 得 !B! 点 障壁 。 NL 每存续一次，此牌障壁增 !M! 点。"
+  },
+  "Ragnarok": {
+    "NAME": "神祇黄昏",
+    "DESCRIPTION": "随机予敌施 !D! 点伤创 !M! 度。"
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED 觉醒打击",
+    "DESCRIPTION": "施 !D! 点伤创。"
+  },
+  "Blessed": {
+    "NAME": "已废 赐福",
+    "DESCRIPTION": "混入 !M! *神迹于抽牌堆。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "Shuffle !M! Upgraded *Miracles into your draw pile. NL 消耗 。"
+  },
+  "Eruption": {
+    "NAME": "怒涛",
+    "DESCRIPTION": "施以 !D! 伤。NL 入怒境。"
+  },
+  "LetFateDecide": {
+    "NAME": "已废 天命决",
+    "DESCRIPTION": "演抽牌堆顶X张。若X有三或逾，存X牌。"
+  },
+  "CutThroughFate": {
+    "NAME": "断运",
+    "DESCRIPTION": "施 !D! 伤。NL 预观 !M! 。NL 抽一牌。"
+  },
+  "WaveOfTheHand": {
+    "NAME": "拂手",
+    "DESCRIPTION": "此回合内，每得格挡时，予诸敌 !M! 层孱弱。"
+  },
+  "Vigilance": {
+    "NAME": "警醒",
+    "DESCRIPTION": "得 !B! 格挡。NL 入静境。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "PathToVictory": {
+    "NAME": "截脉",
+    "DESCRIPTION": "施 !M! 层 *印记。NL 凡具 *印记之敌，失命如层数。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Evaluate": {
+    "NAME": "察识",
+    "DESCRIPTION": "得 !B! 格挡。NL 添一张 *洞见于抽牌堆。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 在你的抽牌堆中加入一张 *洞见+ 。"
+  },
+  "Establishment": {
+    "NAME": "立基",
+    "DESCRIPTION": "凡牌存留时，减其此战耗能 !M! 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 每当有卡牌被 保留 时，将其在本场战斗的耗能减少 !M! 。"
+  },
+  "Collect": {
+    "NAME": "聚敛",
+    "DESCRIPTION": "于下X回合始，添一张 *神迹+于手牌。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "在你的下X+1个回合开始时，增加一张 *奇迹+ 到你的手牌。 NL 消耗 。"
+  },
+  "Experienced": {
+    "NAME": "已废 老练",
+    "DESCRIPTION": "手牌中每张升格之牌，得 !B! 格挡。"
+  },
+  "PerfectedForm": {
+    "NAME": "已废 完形",
+    "DESCRIPTION": "若此回合已入诸基本境，则入神境。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+  },
+  "JustLucky": {
+    "NAME": "天幸",
+    "DESCRIPTION": "预观 !M! 。NL 得 !B! 格挡。NL 施 !D! 伤。"
+  },
+  "Torrent": {
+    "NAME": "已废 奔流",
+    "DESCRIPTION": "施 !D! 伤于诸敌，凡 !M! 次。NL 消尽。"
+  },
+  "Peace": {
+    "NAME": "和合",
+    "DESCRIPTION": "存留。NL 诸敌失 !M! 力，一回合。NL 消尽。"
+  },
+  "PalmThatRestrains": {
+    "NAME": "已废 制掌",
+    "DESCRIPTION": "施 !D! 伤。NL 附 !M! 孱弱。"
+  },
+  "Protect": {
+    "NAME": "护体",
+    "DESCRIPTION": "存留。NL 得 !B! 格挡。"
+  },
+  "Worship": {
+    "NAME": "奉敬",
+    "DESCRIPTION": "得 !M! 层真言。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !M! 层 真言 。"
+  },
+  "EmptyMind": {
+    "NAME": "空心",
+    "DESCRIPTION": "抽 !M! 牌。NL 出现前境。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 退出当前 姿态 。"
+  },
+  "Miracle": {
+    "NAME": "神迹",
+    "DESCRIPTION": "存留。NL 得 [W]。NL 消尽。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 [W] [W] 。 NL 消耗 。"
+  },
+  "DevaForm": {
+    "NAME": "天人体",
+    "DESCRIPTION": "空无。NL 回合始得 [W]，每回合增 !M! 。",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时获得 [W] ，每回合增加 !M! 。"
+  },
+  "TalkToTheHand": {
+    "NAME": "手拒",
+    "DESCRIPTION": "施 !D! 伤。NL 每目标敌受击时，得 !M! 格挡。NL 消尽。"
+  },
+  "Strike_P": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Meditate": {
+    "NAME": "冥思",
+    "DESCRIPTION": "取弃牌堆一牌入手，且存留。NL 入静境。NL 终此回合。",
+    "UPGRADE_DESCRIPTION": "将弃牌堆中的2张牌放入你的手牌，并将它们 保留 。 NL 进入 平静 。 NL 结束你的回合。"
+  },
+  "Nirvana": {
+    "NAME": "涅槃",
+    "DESCRIPTION": "每预观时，得 !M! 格挡。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "DeceiveReality": {
+    "NAME": "瞒实",
+    "DESCRIPTION": "得 !B! 格挡。NL 添一张 *安平于手牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 将一张 *平安+ 加入你的手牌。"
+  },
+  "RetreatingHand": {
+    "NAME": "已废 退手",
+    "DESCRIPTION": "缥缈。NL 得 !B! 格挡。若前牌为攻，此牌归手。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 If the previous card played was an Attack, return this card to your hand."
+  },
+  "Halt": {
+    "NAME": "止",
+    "DESCRIPTION": "得 !B! 格挡。NL 怒境：得 !M! 额外格挡。"
+  },
+  "CurseOfTheBell": {
+    "NAME": "铃诅",
+    "DESCRIPTION": "不可出。NL 不可移出牌组。"
+  },
+  "Brilliance": {
+    "NAME": "耀光",
+    "DESCRIPTION": "施 !D! 伤。NL 额外伤如本战所得真言总层数。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （共获得过 !M! 层 真言 。）",
+      ""
+    ]
+  },
+  "ClearTheMind": {
+    "NAME": "清心",
+    "DESCRIPTION": "存留。入静境。NL 消尽。"
+  },
+  "Safety": {
+    "NAME": "安平",
+    "DESCRIPTION": "存留。NL 得 !B! 格挡。NL 消尽。"
+  },
+  "Scrawl": {
+    "NAME": "急书",
+    "DESCRIPTION": "抽牌直至手满。NL 消尽。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Prostrate": {
+    "NAME": "伏地",
+    "DESCRIPTION": "得 !M! 层真言。NL 得 !B! 格挡。",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Pray": {
+    "NAME": "祈",
+    "DESCRIPTION": "得 !M! 层真言。NL 添一张 *洞见于抽牌堆。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 真言 。 NL 在你的抽牌堆中加入1张 *洞见+ 。"
+  },
+  "BigBrain": {
+    "NAME": "已废 巨脑",
+    "DESCRIPTION": "抽一牌。NL 存留。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "Draw 1 card. NL 保留 。"
+  },
+  "ForeignInfluence": {
+    "NAME": "借石",
+    "DESCRIPTION": "自三张诸色攻牌择一入手。NL 消尽。",
+    "UPGRADE_DESCRIPTION": "从3张任意颜色的攻击牌中选择1张加入你的手牌。 这张牌在本回合耗能变为0。 消耗 。"
+  },
+  "SignatureMove": {
+    "NAME": "独技",
+    "DESCRIPTION": "唯此牌为手牌唯一攻牌时可出。施 !D! 伤。"
+  },
+  "SublimeSlice": {
+    "NAME": "已废 妙切",
+    "DESCRIPTION": "施 !D! 伤。NL 入随机境。"
+  },
+  "ReachHeaven": {
+    "NAME": "升天",
+    "DESCRIPTION": "施 !D! 伤。添一张 NL *暴还于抽牌堆。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 在你的抽牌堆中加入1张 *以暴易暴+ 。"
+  },
+  "Insight": {
+    "NAME": "洞见",
+    "DESCRIPTION": "存留。NL 抽 !M! 牌。NL 消尽。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 抽 !M! 张牌。 NL 消耗 。"
+  },
+  "BattleHymn": {
+    "NAME": "战咏",
+    "DESCRIPTION": "每回合始，添一张 *惩恶于手牌。",
+    "UPGRADE_DESCRIPTION": " 固有 。 在每回合开始时，将一张 *惩恶 加入你的手牌。"
+  },
+  "SoothingAura": {
+    "NAME": "已废 宁息",
+    "DESCRIPTION": "附 !M! 孱弱。NL 回合始，附一孱弱于随机敌。NL 存留。"
+  },
+  "BowlingBash": {
+    "NAME": "连撞",
+    "DESCRIPTION": "现每有一敌，施 !D! 伤。"
+  },
+  "Truth": {
+    "NAME": "真知",
+    "DESCRIPTION": "存留。NL 施 !D! 伤。NL 抽 !M! 牌。NL 消尽。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 造成 !D! 点伤害。 NL 抽 !M! 张牌。 NL 消耗 。"
+  },
+  "Punishment": {
+    "NAME": "已废 惩境",
+    "DESCRIPTION": "入惩境。"
+  },
+  "Smite": {
+    "NAME": "惩恶",
+    "DESCRIPTION": "存留。NL 施 !D! 伤。NL 消尽。"
+  },
+  "Omniscience": {
+    "NAME": "通晓",
+    "DESCRIPTION": "择抽牌堆一牌。演此牌两次而后消尽。NL 消尽。",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Omega": {
+    "NAME": "终焉",
+    "DESCRIPTION": "回合终时，施 !M! 伤于诸敌。"
+  },
+  "Serenity": {
+    "NAME": "弃用之 宁谧",
+    "DESCRIPTION": "处宁谧境，诸生值损减 !M! 点数。"
+  },
+  "Judgement": {
+    "NAME": "天判",
+    "DESCRIPTION": "若敌之生值不逾 !M! 点， NL 则化其命数为空无。",
+    "EXTENDED_DESCRIPTION": [
+      "审判"
+    ]
+  },
+  "MentalFortress": {
+    "NAME": "心垣",
+    "DESCRIPTION": "每易姿态时，得 !M! 点御守。"
+  },
+  "EmptyBody": {
+    "NAME": "空躯",
+    "DESCRIPTION": "获 !B! 点御守。 NL 离当前姿态。"
+  },
+  "Crescendo": {
+    "NAME": "渐涌",
+    "DESCRIPTION": "存续。 NL 入嗔怒境。 NL 消弭。"
+  },
+  "SandsOfTime": {
+    "NAME": "时砂",
+    "DESCRIPTION": "存续。 NL 施 !D! 点伤损。 NL 每存续此牌，战中之能耗减一。"
+  },
+  "Blasphemy": {
+    "NAME": "神侮",
+    "DESCRIPTION": "入神格境。 NL 次回合殒命。 NL 消弭。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 进入 神格 。 NL 在下回合死亡。 NL 消耗 。"
+  },
+  "Transcendence": {
+    "NAME": "超尘",
+    "DESCRIPTION": "升掌中诸存续牌。"
+  },
+  "Flare": {
+    "NAME": "弃用之 烁光",
+    "DESCRIPTION": "施 !D! 伤于诸敌。 NL 怒时：得 [W] [W] 。"
+  },
+  "Unraveling": {
+    "NAME": "澈明",
+    "DESCRIPTION": "自左而右出尽掌中牌。需择标之牌则随缘择敌。 NL 消弭。"
+  },
+  "Weave": {
+    "NAME": "迂曲",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 每预见时，自弃堆还此牌于掌中。"
+  },
+  "CrushJoints": {
+    "NAME": "碎关",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 若战中前出之牌为技牌，予 !M! 层脆弱。"
+  },
+  "Vengeance": {
+    "NAME": "焚心怒",
+    "DESCRIPTION": "于次回合初，入嗔怒境并抽 !M! 张牌。"
+  },
+  "CarveReality": {
+    "NAME": "塑实",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 添一张 *惩恶入掌中。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 将一张 *惩恶+ 加入你的手牌。"
+  },
+  "Defend_P": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 。"
+  },
+  "CrescentKick": {
+    "NAME": "弃用之 月弧踢",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 若具活力， NL 得 [W] 并 NL 抽一牌。"
+  },
+  "Thwack": {
+    "NAME": "弃用之 重击",
+    "DESCRIPTION": "施 !D! 点伤损。"
+  },
+  "Fasting": {
+    "NAME": "弃用之",
+    "DESCRIPTION": "弃用之"
+  },
+  "Swipe": {
+    "NAME": "弃用之 挥扫",
+    "DESCRIPTION": "施 !D! 点伤损。余敌各受其半伤。"
+  },
+  "InnerPeace": {
+    "NAME": "内宁",
+    "DESCRIPTION": "宁谧时：抽 !M! 张牌。 NL 不然，入宁谧境。"
+  },
+  "StepAndStrike": {
+    "NAME": "步击",
+    "DESCRIPTION": "本回合每易姿态，此牌能耗减一。 NL 得 !B! 点御守。 NL 施 !D! 点伤损。"
+  },
+  "Prediction": {
+    "NAME": "弃用之 预兆",
+    "DESCRIPTION": "次回合初得 !B! 御守。"
+  },
+  "Flow": {
+    "NAME": "弃用之 流势",
+    "DESCRIPTION": "出攻牌时，得暂敏一。出技牌时，得暂力一。"
+  },
+  "FlameMastery": {
+    "NAME": "弃用之 焰驭",
+    "DESCRIPTION": "得 !M! 力。"
+  },
+  "FlurryOfBlows": {
+    "NAME": "风连击",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 每易姿态时，自弃堆还此牌于掌中。"
+  },
+  "SashWhip": {
+    "NAME": "绦鞭",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 若战中前出之牌为攻牌，予 !M! 层孱弱。"
+  },
+  "WheelKick": {
+    "NAME": "轮踵",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌。"
+  },
+  "Indignation": {
+    "NAME": "义愤膺",
+    "DESCRIPTION": "嗔怒时：予诸敌 !M! 层脆弱。 NL 不然，入嗔怒境。"
+  },
+  "BecomeAlmighty": {
+    "NAME": "无穷力",
+    "DESCRIPTION": "得 !M! 点力。"
+  },
+  "FameAndFortune": {
+    "NAME": "名利兼收",
+    "DESCRIPTION": "得 !M! 金。"
+  },
+  "LiveForever": {
+    "NAME": "永生境",
+    "DESCRIPTION": "得 !M! 层 *重甲。"
+  },
+  "Expunger": {
+    "NAME": "除灭刃",
+    "DESCRIPTION": "施 !D! 点伤损 X 次。",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "造成 !D! 点伤害 !M! 次。",
+      "造成 !D! 点伤害 !M! 次。"
+    ]
+  },
+  "ConjureBlade": {
+    "NAME": "凝能刃",
+    "DESCRIPTION": "置一张 *除灭刃入抽牌堆。 NL 消弭。",
+    "UPGRADE_DESCRIPTION": "将一张X数值+1的 *灭除之刃 放入你的抽牌堆中。 NL 消耗 。"
+  },
+  "WaveOfTheHand2": {
+    "NAME": "弃用之",
+    "DESCRIPTION": "弃用之"
+  },
+  "Fasting2": {
+    "NAME": "斋禁",
+    "DESCRIPTION": "得 !M! 点力。 NL 得 !M! 点敏。 NL 每回合初少得1 [W] 。"
+  },
+  "Discipline": {
+    "NAME": "弃用之 戒律",
+    "DESCRIPTION": "若回合终有余 [W] ，则次回合依数多抽牌。"
+  },
+  "Flick": {
+    "NAME": "弃用之 轻拂",
+    "DESCRIPTION": "施 !D! 点伤损。 NL 当一敌受 *轻拂三度时，另受 !M! 点伤损。"
+  },
+  "LikeWater": {
+    "NAME": "若水",
+    "DESCRIPTION": "回合终时，若处宁谧境，则得 !M! 点御守。"
+  },
+  "Study": {
+    "NAME": "研参",
+    "DESCRIPTION": "回合终时，于抽牌堆中添一张 *洞见。"
+  }
+}

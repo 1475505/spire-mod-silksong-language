@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "碇",
+    "FLAVOR": "执此微饰，自觉身若沉石，稳如磐岳。",
+    "DESCRIPTIONS": [
+      "每战初临，得 #b",
+      " 点 #y御守 。"
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "太古茶器",
+    "FLAVOR": "饮之魂灵澄澈，寐而安眠沉酣。",
+    "DESCRIPTIONS": [
+      "抵憩所后，次战初临获 [E] [E] 。"
+    ]
+  },
+  "Art of War": {
+    "NAME": "兵燹古卷",
+    "FLAVOR": "此古兵策载有鸿蒙时岁之玄智。",
+    "DESCRIPTIONS": [
+      "若回合内未施 #y攻伐牌 ，次回合得额外 ",
+      "[E] 。"
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "星晷仪",
+    "FLAVOR": "可自星辉间窥得秘识之器。",
+    "DESCRIPTIONS": [
+      "拾取时，择 #b3 牌施 #y蜕形 ，继而 #y升格 此诸牌。",
+      "择三牌 "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "琉璃珠囊",
+    "FLAVOR": "昔为市井流行之玩物，今可使诸敌身失衡平。",
+    "DESCRIPTIONS": [
+      "每战初临，予诸敌 #b",
+      " 层 #y破绽 。"
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "行囊备",
+    "FLAVOR": "旅者专用巨囊，多袋络带缠缚。",
+    "DESCRIPTIONS": [
+      "每战初临，额外执 #b",
+      " 牌。"
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "鸮面陶尊",
+    "FLAVOR": "瓮面镌乌神Mazaleth嘲哂之容。",
+    "DESCRIPTIONS": [
+      "每施 #y能牌 ，复 #b",
+      " 点生息。"
+    ]
+  },
+  "Black Blood": {
+    "NAME": "玄血",
+    "FLAVOR": "汝之怒意愈显幽晦。",
+    "DESCRIPTIONS": [
+      "替 #r燃血 。战终时，复 #b",
+      " 点生息。"
+    ]
+  },
+  "Black Star": {
+    "NAME": "黯星",
+    "FLAVOR": "初现于蛇镇之古物，彼时置烛台侧。",
+    "DESCRIPTIONS": [
+      "#y精英 敌溃时多遗一 #y古物 。"
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "血髓瓶",
+    "FLAVOR": "盛有纯血古吸血鬼髓液之小甁。",
+    "DESCRIPTIONS": [
+      "每战初临，复 #b",
+      " 点生息。"
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "血祭像",
+    "FLAVOR": "此像目眦恒溢血泪。",
+    "DESCRIPTIONS": [
+      "每获 #y金铢 时，复 #b",
+      " 点生息。"
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "青烛",
+    "FLAVOR": "处幽暗时，此烛自燃。",
+    "DESCRIPTIONS": [
+      "可施本 不可施 之 #y咒牌 ， NL NL 施 #y咒牌 则失 #b",
+      " 点生息并 #y焚却 。"
+    ]
+  },
+  "Boot": {
+    "NAME": "机枢靴",
+    "FLAVOR": "旋动机枢则靴履膨大。",
+    "DESCRIPTIONS": [
+      "每造不逾 #b",
+      " 点未御之 #y攻伐 伤时，伤增至 #b5 。"
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "封焰瓶",
+    "FLAVOR": "此瓶中藏永燃之火。",
+    "DESCRIPTIONS": [
+      "拾取时，择一 #y攻伐牌 。每战初临，此牌现于掌中。",
+      "择一牌 ",
+      "每战初临，将 ",
+      " 置汝掌中。"
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "囚雷瓶",
+    "FLAVOR": "凝睇此旋雷云，似见己身碎片回望。",
+    "DESCRIPTIONS": [
+      "拾取时，择一 #y技牌 。每战初临，此牌现于掌中。",
+      "择一牌 ",
+      "每战初临，将 ",
+      " 置汝掌中。"
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "锁飓瓶",
+    "FLAVOR": "瓶内传嗡鸣嗖嗖之微响。",
+    "DESCRIPTIONS": [
+      "拾取时，择一 #y能牌 。每战初临，此牌现于掌中。",
+      "择一牌 ",
+      "每战初临，将 ",
+      " 置汝掌中。"
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "青铜鳞",
+    "FLAVOR": "护者之锐鳞，自变形以卫主。",
+    "DESCRIPTIONS": [
+      "每战初临，得 #b",
+      " 点 棘刺 。"
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "燃血",
+    "FLAVOR": "汝血因无尽怒意而沸燃。",
+    "DESCRIPTIONS": [
+      "战终时，复 #b",
+      " 点生息。"
+    ]
+  },
+  "Cables": {
+    "NAME": "鎏金索",
+    "FLAVOR": "“妙哉！虽自动机亦具慰效。”——兰伟德",
+    "DESCRIPTIONS": [
+      "汝极右充能珠额外启一次被动之效。"
+    ]
+  },
+  "Calipers": {
+    "NAME": "外量钳",
+    "FLAVOR": "“机巧精度乃通崇高之途。”——筑者",
+    "DESCRIPTIONS": [
+      "汝回合初，非失全 #y御守 ，唯失 #b",
+      " 点 #y御守 。"
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "召灵铃",
+    "FLAVOR": "汝寻得此玄铁铃时鸣响三度，今已寂然。",
+    "DESCRIPTIONS": [
+      "得一独有 #r咒诅 及 #b3 件 #y古物 。",
+      "铃音鸣响……",
+      "越赏赐",
+      "闭阖"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "炼药鼎",
+    "FLAVOR": "贾者实为良剂师。购四赠一。",
+    "DESCRIPTIONS": [
+      "拾取时，炼 #b5 瓶随机药汤。",
+      "沸涌咕噜……！"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "百稔榫卯",
+    "FLAVOR": "解此榫卯谜时，心涌磅礴暖流。",
+    "DESCRIPTIONS": [
+      "每战初损生息时，执 #b",
+      " 牌。"
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "蜃戒",
+    "FLAVOR": "已废",
+    "DESCRIPTIONS": [
+      "汝可于憩所 #y炼药汤。"
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "魁首革带",
+    "FLAVOR": "惟至刚者可系此革带。",
+    "DESCRIPTIONS": [
+      "每施 #y破绽 时，同予 #b",
+      " 重 #y衰颓 。"
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "冥渡者烬",
+    "FLAVOR": "传冥渡者乃轮回之神，永劫焚焰中死生往复。",
+    "DESCRIPTIONS": [
+      "每 #y焚 一牌，诸敌皆受 #b",
+      " 点创戕。"
+    ]
+  },
+  "Chemical X": {
+    "NAME": "玄秘药X",
+    "FLAVOR": "警：绝不可与饴、香药及诸般佳味相杂。",
+    "DESCRIPTIONS": [
+      "耗 #bX 之牌威能增 #b",
+      " 点。"
+    ]
+  },
+  "Circlet": {
+    "NAME": "灵枢环",
+    "FLAVOR": "汝已无遗器可纳。异哉！",
+    "DESCRIPTIONS": [
+      "多则善。"
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "裂核",
+    "FLAVOR": "塔中诸机关皆藏此秘力之源，然此核似有损。",
+    "DESCRIPTIONS": [
+      "每战启时， #y化生 #b1 枚 #y雷光 灵玉。"
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "咒钥",
+    "FLAVOR": "此钥透邪秽之气。力终需偿。",
+    "DESCRIPTIONS": [
+      " 每启凡箱，必得 #r咒诅 一。",
+      "每回合始得 [E] 。"
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "玄石符",
+    "FLAVOR": "此玄石可汲暗力，化为主者生机。",
+    "DESCRIPTIONS": [
+      "每得 #y咒诅 ，汝命元上限增 #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "灵枢盘",
+    "FLAVOR": "此盘载羽族与鳞族秘辛。",
+    "DESCRIPTIONS": [
+      "每战启时，得 #b",
+      " 点 #y凝神 。"
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "冥枝",
+    "FLAVOR": "湮没纪元遗存之木杪。",
+    "DESCRIPTIONS": [
+      "每 #y焚 一牌，掌中添随机牌一。"
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "愚石",
+    "FLAVOR": "虚位",
+    "DESCRIPTIONS": [
+      "每回合始，得 #b",
+      " 充能。NL（不可除不可易。）"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "鉴真目镜",
+    "FLAVOR": "颇具君子风仪。",
+    "DESCRIPTIONS": [
+      "贾人货值皆贬 #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "古符十二面",
+    "FLAVOR": "其上符纹不可识。",
+    "DESCRIPTIONS": [
+      "当汝命元盈满时，每回合始得",
+      "[E] 。"
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "梦罟",
+    "FLAVOR": "北疆部族悬此网而寐，信可臻至境。",
+    "DESCRIPTIONS": [
+      "每 #y休憩 时，可添牌入箧。"
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "魇偶",
+    "FLAVOR": "此偶构自邪力汲威能。",
+    "DESCRIPTIONS": [
+      "汝箧中每存 #y咒诅 一，战启时即多得 #b",
+      " 点 #y蛮力 。",
+      " 汝无 #y咒诅 牌。",
+      " 汝存 #b",
+      " 道 #y咒诅 牌。"
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "虚魄浆",
+    "FLAVOR": "此浆颤若生息，似具性命。",
+    "DESCRIPTIONS": [
+      " 汝不可再得 #y金铢 。",
+      "回合始得 [E] 。"
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "情枢",
+    "FLAVOR": "……<3……？",
+    "DESCRIPTIONS": [
+      "每回合始，若前回受创，则诸灵玉潜效皆发。"
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "英杰秘卷",
+    "FLAVOR": "古巫妖之传说纪。",
+    "DESCRIPTIONS": [
+      "每战启时添随机 #y能牌 入手，此牌首回合耗能作 #b0 。"
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "永翎",
+    "FLAVOR": "此羽似不可毁，不知出自何禽？",
+    "DESCRIPTIONS": [
+      "汝箧中每存 #b",
+      " 牌，入休处时即复 #b",
+      " 点命元。"
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "冰封卵",
+    "FLAVOR": "此卵封于寒冰，无生气，永不解化。",
+    "DESCRIPTIONS": [
+      "每得 #y能牌 ，即 #y升格 之。"
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "冰瞳",
+    "FLAVOR": "凝此目时，可窥己身未来一隅。",
+    "DESCRIPTIONS": [
+      "今观 #y抽牌堆 时，诸牌依序而列。"
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "赌玉",
+    "FLAVOR": "此玉一面镌小字：“熊之吉玉！”",
+    "DESCRIPTIONS": [
+      "每战启时，弃任意牌，抽同数牌。"
+    ]
+  },
+  "Ginger": {
+    "NAME": "姜辛",
+    "FLAVOR": "可入诸补剂之良物。",
+    "DESCRIPTIONS": [
+      "汝不复受 #y衰颓 。"
+    ]
+  },
+  "Girya": {
+    "NAME": "力盉",
+    "FLAVOR": "此盉重不可量，持练必可增力。",
+    "DESCRIPTIONS": [
+      "汝今可于休处得 #y蛮力  。（至多三度）"
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "金敕像",
+    "FLAVOR": "纯金所铸，持之即觉己身富。",
+    "DESCRIPTIONS": [
+      "敌堕 #y金铢 增 #b25% 。"
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "精怪角",
+    "FLAVOR": "“精怪至死犹可增其躯，异哉。”——兰伟德",
+    "DESCRIPTIONS": [
+      "每有敌毙，得",
+      "[E] 且抽 #b1 牌。"
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "欢萼",
+    "FLAVOR": "此笑靥常驻之花乃贵胄间流行之礼。",
+    "DESCRIPTIONS": [
+      "每 #b",
+      " 回合，得 [E] 。"
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "冰醴",
+    "FLAVOR": "“美哉！”",
+    "DESCRIPTIONS": [
+      "余能可存至下回合。"
+    ]
+  },
+  "Inserter": {
+    "NAME": "械肱",
+    "FLAVOR": "攫。置。叠。复。",
+    "DESCRIPTIONS": [
+      "每 #b2 回合，得 #b1 灵玉位。"
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "念珠腕环",
+    "FLAVOR": "护身之物，以御未名之险。",
+    "DESCRIPTIONS": [
+      "汝于 #y? 室中，不复遇寻常之战。"
+    ]
+  },
+  "Kunai": {
+    "NAME": "苦无刃",
+    "FLAVOR": "刺客喜用之远兵刃。",
+    "DESCRIPTIONS": [
+      "同一回合内，每打出 #b",
+      " 张 #y攻击牌 ，即获 #b",
+      " 点 #y灵巧 。"
+    ]
+  },
+  "Lantern": {
+    "NAME": "明灯",
+    "FLAVOR": "诡灯一盏，唯照持灯之人。",
+    "DESCRIPTIONS": [
+      "每战首回合，获 ",
+      "[E] ",
+      "。"
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "李氏华饼",
+    "FLAVOR": "“全塔之中，此乃至味！今特为汝烤制。”",
+    "DESCRIPTIONS": [
+      "拾取时，汝之命限增 #b",
+      " 点，且复全命。"
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "启函刃",
+    "FLAVOR": "锋锐异常，近乎非自然。",
+    "DESCRIPTIONS": [
+      "同一回合内，每打出 #b3 张技牌，即伤诸敌 #b",
+      " 点创。"
+    ]
+  },
+  "Living Blade": {
+    "NAME": "生体刃",
+    "FLAVOR": "已废",
+    "DESCRIPTIONS": [
+      "汝可得诸卡，无有数量之限。"
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "蜥尾",
+    "FLAVOR": "战中可欺敌之伪尾。",
+    "DESCRIPTIONS": [
+      "濒死之际，免殒并复命至限之 #b50% （惟效一次）。"
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "魔花",
+    "FLAVOR": "本谓绝种之花，竟得完好存世。",
+    "DESCRIPTIONS": [
+      "战中回复之效增 #b50% 。"
+    ]
+  },
+  "Mango": {
+    "NAME": "芒果",
+    "FLAVOR": "诸多遗忘之果中，至为诱人者。完好存之，无受塔疫之迹。",
+    "DESCRIPTIONS": [
+      "拾取时，汝之命限增 #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "痛痕",
+    "FLAVOR": "北族用此器，为战中御痛之战士烙印记。",
+    "DESCRIPTIONS": [
+      "每回合始获 [R] 。战初，置 #b2 张 #r创口 入汝抽牌堆。"
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "嵌套人偶",
+    "FLAVOR": "层层相套之偶，绘有白目蓝羽之禽，汝不识其类。",
+    "DESCRIPTIONS": [
+      "汝将开之 #b2 箱中，含 #b2 件 #y遗物 。（首领箱除外）",
+      "汝将开之 #b1 箱中，含 #b2 件 #y遗物 。（首领箱除外）",
+      "此遗物之效已尽。"
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "骨上肉",
+    "FLAVOR": "此肉恒复，似永不尽食。",
+    "DESCRIPTIONS": [
+      "若战毕时，汝命值等或低 #b50% ，则复 #b",
+      " 点命。"
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "医箧",
+    "FLAVOR": "“诸物皆备！疗痒、愈灼、解毒，无所不有！”",
+    "DESCRIPTIONS": [
+      "可打原 不可打 之 #y状态牌 。打 #y状态牌 则 #y耗之 。"
+    ]
+  },
+  "Membership Card": {
+    "NAME": "会籍牌",
+    "FLAVOR": "“会籍！惟本店至贵之客，方可得之！”",
+    "DESCRIPTIONS": [
+      "诸货折价 #b50% ！"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "水银时漏",
+    "FLAVOR": "附魔之漏，恒滴银液。",
+    "DESCRIPTIONS": [
+      "汝回合始时，伤诸敌 #b",
+      " 点创。"
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "熔火卵",
+    "FLAVOR": "凤卵，可见熔岩滋滋发热，赤灼烫手。",
+    "DESCRIPTIONS": [
+      "每得 #y攻击牌 时，即 #y升之 。"
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "干枯手",
+    "FLAVOR": "此手常搐，尤在汝心搏疾时。",
+    "DESCRIPTIONS": [
+      "每打一 #y能力牌 ，手牌中即有一随机牌此回合耗能变 #b0 。"
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "死灵书",
+    "FLAVOR": "惟愚者欲控此邪力。汝每夜之梦，皆充斥此书渐噬汝心之魇。",
+    "DESCRIPTIONS": [
+      "汝每回合打出之首张耗能大于等于 #b",
+      " 之 #y攻击牌 将打二次。拾此遗物时，受 #r诅 。",
+      " 之 #y攻击牌 将打二次。"
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "涅奥之恸",
+    "FLAVOR": "涅奥赐汝之祝，含悲恸之力。",
+    "DESCRIPTIONS": [
+      "随后 #b3 战中，敌惟 #b1 点命。",
+      "此祝已竭。"
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "尼利典",
+    "FLAVOR": "恶名昭著之戏师亲编，据云可阔人心智。",
+    "DESCRIPTIONS": [
+      "每回合末，汝可从 #b3 张随机牌中择 #b1 张，随机洗入汝抽牌堆。"
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "忍卷",
+    "FLAVOR": "暗杀秘术尽载其中。",
+    "DESCRIPTIONS": [
+      "每战初，手牌增 #b",
+      " 张 #y短刃 。"
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "恩洛斯之赠",
+    "FLAVOR": "恩洛斯予汝之奇礼，每试拆包，皆内现同大完好之盒。",
+    "DESCRIPTIONS": [
+      "使汝于怪赏中遇稀牌之机增 #b三倍 。"
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "核池",
+    "FLAVOR": "呜呼……",
+    "DESCRIPTIONS": [
+      "每战初， #y生 #b1 个 #y等离子 充能球。"
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "虚石护符",
+    "FLAVOR": "已废",
+    "DESCRIPTIONS": [
+      "抵汝将受之下次 #y减益 ，来自敌。NL #b10 回合后复充。"
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "异菇",
+    "FLAVOR": "“食寄生毛菇后，自觉更高大，亦更……难受伤。”——兰伟德 ",
+    "DESCRIPTIONS": [
+      "当汝有 #y易伤 态时，所受额外之伤自 #b50% 降至 #b25% 。"
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "异滑石",
+    "FLAVOR": "汝从未见如此滑完之物，必出先古民之手艺。",
+    "DESCRIPTIONS": [
+      "每战初，获 #b",
+      " 点 #y灵巧 。"
+    ]
+  },
+  "Old Coin": {
+    "NAME": "古币",
+    "FLAVOR": "因其史值与稀金成分，商贾出高价之独币。",
+    "DESCRIPTIONS": [
+      "拾取时，得 #b300 #y金 。"
+    ]
+  },
+  "Omamori": {
+    "NAME": "护符",
+    "FLAVOR": "常御邪灵之符，此符中似有圣能。",
+    "DESCRIPTIONS": [
+      "抵汝下 #b2 次所得之 #r诅 。",
+      "抵汝下一次所得之 #r诅 。",
+      "此圣物已竭。"
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "奥利哈钢",
+    "FLAVOR": "一块不知来处，微泛绿光的金属。似乎是不可摧毁的。",
+    "DESCRIPTIONS": [
+      "如果回合结束之时没有任何 #y格挡 ，获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "精工折扇",
+    "FLAVOR": "这把折扇沾血时仿佛会自动展开并变得坚硬。",
+    "DESCRIPTIONS": [
+      "你在同一回合内每打出 #b3 张 #y攻击牌 ，即获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Orrery": {
+    "NAME": "天象仪",
+    "FLAVOR": "“一旦你理解宇宙之妙……”——佐罗斯",
+    "DESCRIPTIONS": [
+      "选择 #b5 张牌加入你的牌组。",
+      "智慧！"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "潘多拉魔盒",
+    "FLAVOR": "你感到开启此盒似乎有不祥之兆。",
+    "DESCRIPTIONS": [
+      "#b变化 所有“打击”与“防御”牌。",
+      "潘多拉之盒已启……"
+    ]
+  },
+  "Pantograph": {
+    "NAME": "缩放仪",
+    "FLAVOR": "“坚实地基非偶然，规划之器尤为重。”——建筑师",
+    "DESCRIPTIONS": [
+      "于Boss战开始之际，回复 #b",
+      " 点生命。"
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "纸鹤",
+    "FLAVOR": "一种过去时代生灵的折纸。",
+    "DESCRIPTIONS": [
+      "带 #y虚弱 之敌造成伤害降低 #b40% 而非 #b25% 。"
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "纸蛙",
+    "FLAVOR": "此纸仿佛不断自行翻折，化做某种小兽之形。",
+    "DESCRIPTIONS": [
+      "带 #y易伤 之敌受到伤害增加 #b75% 而非 #b50%。"
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "宁静烟斗",
+    "FLAVOR": "放空心智，洁净魂灵。",
+    "DESCRIPTIONS": [
+      "现可于休息之处移除你牌组中的牌。"
+    ]
+  },
+  "Pear": {
+    "NAME": "梨子",
+    "FLAVOR": "高塔荒疫之前常见之果。",
+    "DESCRIPTIONS": [
+      "拾取之时，最大生命提升 #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "钢笔尖",
+    "FLAVOR": "执此笔尖时，可见所有曾被其前主所杀之人。真乃血腥之史。",
+    "DESCRIPTIONS": [
+      "你每打出之第 #b10 张 #y攻击牌 将造成双倍伤害。"
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "贤者之石",
+    "FLAVOR": "此石散发纯粹能量，周遭人与物皆因此而强。",
+    "DESCRIPTIONS": [
+      "每回合开始之时获得 [E] 。所有敌人初始获得 #b",
+      "点 #y力量 。"
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "药水腰带",
+    "FLAVOR": "系此腰带，可携更多药水！",
+    "DESCRIPTIONS": [
+      "拾取之时，获得 #b2 个药水栏位。"
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "转经轮",
+    "FLAVOR": "经轮转动不息，永无停歇。",
+    "DESCRIPTIONS": [
+      "普通敌人多掉落一次卡牌之赏。"
+    ]
+  },
+  "Question Card": {
+    "NAME": "问号牌",
+    "FLAVOR": "“选择多，则不为所困。”——忽必烈大帝",
+    "DESCRIPTIONS": [
+      "选奖励牌时，可选项增加 #b1 张。（拾取时同窗奖励牌不受影响）"
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "红头环",
+    "FLAVOR": "你竟取尽所有圣物。非凡！",
+    "DESCRIPTIONS": [
+      "观之极为美艳。"
+    ]
+  },
+  "Red Mask": {
+    "NAME": "红面具",
+    "FLAVOR": "这副英武面具乃红面具强盗团头目之物，如此说来，你现应为他们的首领了？",
+    "DESCRIPTIONS": [
+      "每场战斗开始之时，给予所有敌人 #b",
+      " 层 #y虚弱 。"
+    ]
+  },
+  "Red Skull": {
+    "NAME": "红头骨",
+    "FLAVOR": "一个用装饰性颜料染红的小头骨。",
+    "DESCRIPTIONS": [
+      "当你生命等于或低于 #b50% 时， 你获得额外 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "皇家枕",
+    "FLAVOR": "此番可安眠矣。",
+    "DESCRIPTIONS": [
+      "于 #y休息 之时额外回复 #b",
+      " 点生命。"
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "长蛇戒指",
+    "DESCRIPTIONS": [
+      "替换 #g蛇之戒指 。",
+      "在你的每个回合开始之时，额外抽 #b1 张牌。"
+    ],
+    "FLAVOR": "你的戒指改变形态，焕然一新。"
+  },
+  "Ring of the Snake": {
+    "NAME": "蛇之戒指",
+    "FLAVOR": "用蛇化石制成的戒指，优秀女猎手之象征。",
+    "DESCRIPTIONS": [
+      "每场战斗开始之时，额外抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "符文电容器",
+    "FLAVOR": "愈多愈好。",
+    "DESCRIPTIONS": [
+      "每场战斗开始之时，获得 #b3 个额外充能球栏位。"
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "符文立方",
+    "FLAVOR": "其上符文不可辨识。",
+    "DESCRIPTIONS": [
+      "每当你失去生命之时，抽 #b",
+      " 张牌。",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "符文穹顶",
+    "FLAVOR": "其上符文不可辨识。",
+    "DESCRIPTIONS": [
+      "。你不能再看见敌人的 #b意图 。",
+      "每回合开始之时获得 [E] "
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "符文金字塔",
+    "FLAVOR": "其上符文不可辨识。",
+    "DESCRIPTIONS": [
+      "你在回合结束时不再自动弃尽手牌。",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "自塑黏土",
+    "FLAVOR": "“真妙哉！此物似乎能随我心意自塑其形！读心之黏土乎？”——兰伟德",
+    "DESCRIPTIONS": [
+      "每当你战斗中失去生命，即于下回合获得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Shovel": {
+    "NAME": "铲",
+    "FLAVOR": "高塔中藏无数过往文明遗留之圣物与强大冒险者遗失之宝，现你可掘之！",
+    "DESCRIPTIONS": [
+      "现可于休息之处 #y挖掘 圣物。"
+    ]
+  },
+  "Shuriken": {
+    "NAME": "手里剑",
+    "FLAVOR": "轻便投掷之器，尤推荐掷向眼睛。",
+    "DESCRIPTIONS": [
+      "你在同一回合内每打出 #b",
+      " 张 #y攻击牌 ，获得 #b",
+      " 点 #y力量 。"
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "颂钵",
+    "FLAVOR": "此器历经万击，叩之则发不绝清音，人谓之歌碗。",
+    "DESCRIPTIONS": [
+      "可化牌赏为 #b+2 命之极。"
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "笑面",
+    "FLAVOR": "商贾所覆之面，似有诸多备者……",
+    "DESCRIPTIONS": [
+      "商者除牌之役，价恒为 #b",
+      "  #y金。"
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "异蛇颅骨",
+    "FLAVOR": "异蛇之颅存之甚好，离奇洁滑，尘垢不染，何耶？",
+    "DESCRIPTIONS": [
+      "每予敌 #y毒状，复添 #b",
+      " 重 #y毒。"
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "异蛇目",
+    "FLAVOR": "亡异蛇之目，较汝所思尤巨。",
+    "DESCRIPTIONS": [
+      "每轮多掣 #b2 牌。战启时得 #y淆乱之效。"
+    ]
+  },
+  "Sozu": {
+    "NAME": "添水",
+    "FLAVOR": "汝察一切蕴魔之液，近此物则失其效。",
+    "DESCRIPTIONS": [
+      " 汝不复得药水。",
+      "每轮伊始获 [E]。"
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "灵遗",
+    "FLAVOR": "汝献灵之祭，焚后之余。",
+    "DESCRIPTIONS": [
+      "无论如何观之，皆不适。"
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "异匙",
+    "FLAVOR": "若汝凝此匙，似将曲形于目前。",
+    "DESCRIPTIONS": [
+      "本应 #y消 之牌，出时有 #b50% 机仅弃之。"
+    ]
+  },
+  "Strawberry": {
+    "NAME": "莓实",
+    "FLAVOR": "“味极美！大疫后不复见此物。”——兰伟德",
+    "DESCRIPTIONS": [
+      "拾时，增汝命之极 #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "日晷",
+    "FLAVOR": "“古之人愚执于时，仰天望，冀得永导。”——佐罗斯",
+    "DESCRIPTIONS": [
+      "汝每浣牌 #b",
+      " 回，得 [E] [E]。"
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "共生之疫",
+    "FLAVOR": "微恙之扰，反致巨益……",
+    "DESCRIPTIONS": [
+      "每战初， #y生 #b1 枚 #y暗 能球。"
+    ]
+  },
+  "Test 1": {
+    "NAME": "试器 一",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "试器 二",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "今观 #y弃牌堆，牌将以序列。"
+    ]
+  },
+  "Test 3": {
+    "NAME": "试器 三",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "拾时， #y升 诸 #y御 牌。"
+    ]
+  },
+  "Test 4": {
+    "NAME": "试器 四",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "战初，化诸 #y击 牌之耗为 #b0。"
+    ]
+  },
+  "Test 5": {
+    "NAME": "试器 五",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "拾时，随机 #y升 #b",
+      " 张 #y技牌。"
+    ]
+  },
+  "Test 6": {
+    "NAME": "试器 六",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "每轮终，汝得额外 #y挡 。每 #b",
+      " 点 #y挡 需汝有 #b",
+      "  #y金。"
+    ]
+  },
+  "Test 7": {
+    "NAME": "试器 七",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      " #y英 敌败时落 #b2 件 #y器。"
+    ]
+  },
+  "Test 8": {
+    "NAME": "试器 八",
+    "FLAVOR": "Beta试之器。若汝喜，告开发者。",
+    "DESCRIPTIONS": [
+      "每轮多掣 #b2 牌。战启时得 #y淆乱之效。"
+    ]
+  },
+  "The Courier": {
+    "NAME": "驿使",
+    "FLAVOR": "此乃商者之宠！",
+    "DESCRIPTIONS": [
+      "商者之牌、器、药不复售罄，且诸货折 #b20%。"
+    ]
+  },
+  "The Specimen": {
+    "NAME": "生之样本",
+    "FLAVOR": "“趣哉！吾见一变异生者，具骇毒，先采样本而后细究。”——兰伟德",
+    "DESCRIPTIONS": [
+      "每有敌亡，移其 #y毒 层于一随机敌。"
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "针线",
+    "FLAVOR": "以此魔法线绕汝周，自觉愈坚。",
+    "DESCRIPTIONS": [
+      "每战初，得 #b",
+      " 层 #y复甲。"
+    ]
+  },
+  "Tingsha": {
+    "NAME": "铜钹",
+    "FLAVOR": "此器之响，似能回响至耳痛。",
+    "DESCRIPTIONS": [
+      "汝每于回合弃一张牌，则伤一随机敌 #b",
+      " 点伤。"
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "小匣",
+    "FLAVOR": "“为原型颇善。”——筑者",
+    "DESCRIPTIONS": [
+      "每 #b",
+      " 个 #y？ 室之末必为 #y宝室。",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "小庐",
+    "FLAVOR": "“几臻完美之微工。此乃吾迄今至优之作，然犹未足。”——筑者",
+    "DESCRIPTIONS": [
+      "拾时，得 #b1 瓶药。 NL 获 #b",
+      "  #y金。 NL 增汝命之极 #b",
+      " 。 NL 得 #b1 牌。 NL 随机升 #b1 牌。",
+      "微庐！"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "器匣",
+    "FLAVOR": "无论何工，皆得应器。",
+    "DESCRIPTIONS": [
+      "每战初，汝可自 #b3 张随机无色牌择 #b1 张添入手牌。"
+    ]
+  },
+  "Torii": {
+    "NAME": "鸟居",
+    "FLAVOR": "汝持此微鸟居，觉心涌宁安之感。",
+    "DESCRIPTIONS": [
+      "每汝受不逾 #b",
+      " 点未挡 #y攻 伤时，降伤为 #b1。"
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "韧带",
+    "FLAVOR": "失予人力。",
+    "DESCRIPTIONS": [
+      "汝每于回合弃一张牌，则得 #b",
+      " 点 #y挡。"
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "毒卵",
+    "FLAVOR": "“奇哉！此乃失魂之魔物卵乎？孰能造此物耶？”——兰伟德",
+    "DESCRIPTIONS": [
+      "凡得 #y技牌 者，辄 #y升之 。"
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "机关翼",
+    "FLAVOR": "“此小器最宜伴独行客游！”",
+    "DESCRIPTIONS": [
+      "每饮药一剂，复 #b",
+      " 点命。"
+    ]
+  },
+  "Turnip": {
+    "NAME": "芦菔",
+    "FLAVOR": "合姜尤妙。",
+    "DESCRIPTIONS": [
+      "不复受 #y脆弱 。"
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "无歇陀",
+    "FLAVOR": "此陀恒转若梦，令人恍兮惚兮。",
+    "DESCRIPTIONS": [
+      "回合中，手无牌时，抽一。"
+    ]
+  },
+  "Vajra": {
+    "NAME": "金刚杵",
+    "FLAVOR": "赐显荣于战者之饰遗也。",
+    "DESCRIPTIONS": [
+      "每战伊始，得 #b",
+      " 点 #y力 。"
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "绒扼",
+    "FLAVOR": "“力巨而囿。”——大汗",
+    "DESCRIPTIONS": [
+      "每回不得出逾 #b",
+      " 张牌。",
+      "回合始获 [E] 。",
+      "吾唯能出至多 NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "战彩",
+    "FLAVOR": "古时铁甲士战前以魔彩绘护纹。",
+    "DESCRIPTIONS": [
+      "拾时，随机 #y升 #b",
+      " 张 #y技牌 。"
+    ]
+  },
+  "Whetstone": {
+    "NAME": "砺石",
+    "FLAVOR": "“肉躯终不敌铁。”——大汗",
+    "DESCRIPTIONS": [
+      "拾时，随机 #y升 #b",
+      " 张 #y攻牌 。"
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "白兽石像",
+    "FLAVOR": "小白石像，其兽未之见也。",
+    "DESCRIPTIONS": [
+      "战后必落药。"
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "绽印",
+    "FLAVOR": "塔深之处，思与实合为一。",
+    "DESCRIPTIONS": [
+      "不复能回命。"
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "碎金冕",
+    "FLAVOR": "首勇之金冕……或乃劣仿乎？",
+    "DESCRIPTIONS": [
+      "牌赏之面，可选者减 #b2 张。",
+      "回合始获 [E] 。"
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "空鸾笼",
+    "FLAVOR": "“纳崇物于笼，奇行也。”——兰伟德",
+    "DESCRIPTIONS": [
+      "拾时，择去牌组中 #b2 张。",
+      "择二牌去之。"
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "烟炉",
+    "FLAVOR": "炉烟使主得焚者之灵。",
+    "DESCRIPTIONS": [
+      "每 #b6 回合，得 #b1 层 #y无体 。"
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "融锤",
+    "FLAVOR": "一握则永不可释。",
+    "DESCRIPTIONS": [
+      "不复能于憩处锻牌。",
+      "回合始获 [E] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "沥杯",
+    "FLAVOR": "“善，再斟一杯。作不息！”——筑者",
+    "DESCRIPTIONS": [
+      "不复能于憩处 #y憩 。",
+      "回合始获 [E] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "蛇首",
+    "FLAVOR": "至福之生，乃万物可购之豪也！",
+    "DESCRIPTIONS": [
+      "每入？室时得 #b",
+      " #y金 。"
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "恩洛斯饥面",
+    "FLAVOR": "汝觉甚饥。",
+    "DESCRIPTIONS": [
+      "汝启次非Boss箱则为空。",
+      ""
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "牧者面",
+    "FLAVOR": "人皆爱牧。",
+    "DESCRIPTIONS": [
+      "每战后汝命极增 #b1 。"
+    ]
+  },
+  "CultistMask": {
+    "NAME": "异教面罩",
+    "FLAVOR": "己者！己者！",
+    "DESCRIPTIONS": [
+      "汝觉有欲启腔。",
+      "@咔！@ NL @咔咔！@"
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "精怪貌",
+    "FLAVOR": "呜呼，欲遁。",
+    "DESCRIPTIONS": [
+      "每战伊始，汝有 #b1 层 #y弱 。"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "珠盘",
+    "FLAVOR": "“一……二……三……”",
+    "DESCRIPTIONS": [
+      "每洗抽牌堆时，得 #b",
+      " 点 #y挡 。"
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "多丽镜",
+    "FLAVOR": "“映吾貌甚异。”",
+    "DESCRIPTIONS": [
+      "拾时，自牌组择一牌复之。",
+      "择一牌复之。"
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "机齿艺",
+    "FLAVOR": "“观内齿繁，岂不巧乎。”",
+    "DESCRIPTIONS": [
+      "每战伊始，得 #b1 层 #y人造 。"
+    ]
+  },
+  "MealTicket": {
+    "NAME": "食券",
+    "FLAVOR": "“此间肉丸甚名！后每至可尝也！”",
+    "DESCRIPTIONS": [
+      "每入市室，复 #b",
+      " 点命。"
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "曲斗",
+    "FLAVOR": "“私谏勿以此饮。”",
+    "DESCRIPTIONS": [
+      "每战伊始，予诸敌 #b4 层 #y毒 。"
+    ]
+  },
+  "HandDrill": {
+    "NAME": "手锥",
+    "FLAVOR": "“螺旋甚危。”",
+    "DESCRIPTIONS": [
+      "每破敌 #y挡 时，予其 #b2 层 #y易损 。"
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "浮鸢",
+    "FLAVOR": "鸢战浮于侧，不知何秘力托之空。",
+    "DESCRIPTIONS": [
+      "每回首弃牌时，获 [E] 。"
+    ]
+  },
+  "Sling": {
+    "NAME": "勇投索",
+    "FLAVOR": "“对至强之敌甚利之器。”",
+    "DESCRIPTIONS": [
+      "当与英杰之敌战，获 #b",
+      "  点 #y力劲 。"
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "冰封之心",
+    "FLAVOR": "某种悸动之寒息充溢汝心之裂隙。",
+    "DESCRIPTIONS": [
+      "替 #r残破之心 。 若回合终时存空位， #y凝 #b1 枚 #y寒霜 灵球。"
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "赤丹丸",
+    "FLAVOR": "“采塔中群生之菌所炼，可愈万疾！”",
+    "DESCRIPTIONS": [
+      "若同回合内各打 #y能牌 、 #y击牌 与 #y技牌 一张，净除周身一切不祥。"
+    ]
+  },
+  "WristBlade": {
+    "NAME": "腕刃",
+    "FLAVOR": "便于行刺之器。",
+    "DESCRIPTIONS": [
+      "耗零之 #y击牌 另添 #b4 点创痕。"
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "时轮石",
+    "FLAVOR": "塔中几无时逝之感。",
+    "DESCRIPTIONS": [
+      "于第 #b",
+      "  轮终时，遍击诸敌 #b",
+      "  点创痛。"
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "二节杖",
+    "FLAVOR": "习武之良器，可正姿增敏。",
+    "DESCRIPTIONS": [
+      "每打 #b",
+      "  张 #y击牌 ，得 [E] 。"
+    ]
+  },
+  "MawBank": {
+    "NAME": "饕餮金匮",
+    "FLAVOR": "虽巨口之袭频仍，此形金匮竟盛行于世。",
+    "DESCRIPTIONS": [
+      "每登一层得 #b",
+      " #y金 。 若于市肆耗 #y金 即废。",
+      "此物已失其效。"
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "异变劲力",
+    "FLAVOR": "“其效若电光石火，唯险境方现。”——无名氏",
+    "DESCRIPTIONS": [
+      "每战初获 #b",
+      "  点 #y劲力 ，首轮终时失 #b",
+      "  点 #y劲力。"
+    ]
+  },
+  "Brimstone": {
+    "NAME": "地狱硫",
+    "FLAVOR": "散炼狱之炽息。",
+    "DESCRIPTIONS": [
+      "每轮初汝获 #b",
+      "  点 #y劲力 ，诸敌亦得 #b",
+      "  #y劲力。"
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "襟时计",
+    "FLAVOR": "其针似永驻于三时之位。",
+    "DESCRIPTIONS": [
+      "若某轮打牌不逾 #b3 张，则次轮初多抽 #b3 张牌。"
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "昆蟲遗蜕",
+    "FLAVOR": "此虫似对巨敌散虚弱之气。",
+    "DESCRIPTIONS": [
+      "英杰战中敌命减 #b",
+      "% 。"
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "螺旋石遗",
+    "FLAVOR": "似不可摧，汝奇何等生灵曾具此物。",
+    "DESCRIPTIONS": [
+      "阻每战中首度受创。"
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "晶镜碎",
+    "FLAVOR": "藉此碎镜，可观世于新眸。",
+    "DESCRIPTIONS": [
+      "战赏所落之牌今含无色及异色者。"
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "曲铁钳",
+    "FLAVOR": "此对被窃之咒钳散浓怨，似亟欲归原所。",
+    "DESCRIPTIONS": [
+      "每轮初，随机 #y升 汝手牌一张（唯本战有效）。"
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "飞翼履",
+    "FLAVOR": "甚飒爽。",
+    "DESCRIPTIONS": [
+      "择下层室时有三机可无视当前途。"
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "瓷鱼",
+    "FLAVOR": "此精绘之鱼信可招财源滚滚。",
+    "DESCRIPTIONS": [
+      "每添牌入组，获 #b",
+      "  #y金 。"
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "击傀",
+    "FLAVOR": "被击至残破。",
+    "DESCRIPTIONS": [
+      "名含“击”之牌造 #b",
+      "  点额外创痛。"
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "紫莲",
+    "FLAVOR": "古经载，“法池”水面常浮此花。",
+    "DESCRIPTIONS": [
+      "每离 #y宁 时，得一点额外 [E] 。"
+    ]
+  },
+  "SacredBark": {
+    "NAME": "神树皮",
+    "FLAVOR": "传乃取自界树之皮。",
+    "DESCRIPTIONS": [
+      "药液之效倍之。"
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "泪匣",
+    "FLAVOR": "匣主目盲，其中物无人知。",
+    "DESCRIPTIONS": [
+      "每战初处 #y宁 态。"
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "奴贩颈锁",
+    "FLAVOR": "锈蚀可憎之链。",
+    "DESCRIPTIONS": [
+      "于头目战与英杰战中，每轮初得 [E] 。"
+    ]
+  },
+  "Akabeko": {
+    "NAME": "赤牛",
+    "FLAVOR": "“哞～”",
+    "DESCRIPTIONS": [
+      "每战中首击造 #b",
+      "  点额外创痛"
+    ]
+  },
+  "Yang": {
+    "NAME": "阳",
+    "FLAVOR": "“于是日永熄，若天帷坠于其前。”——佐罗斯",
+    "DESCRIPTIONS": [
+      "每轮中，每打一张 #y击牌 ，获 #b1 点暂 #y敏 。"
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "披风扣",
+    "FLAVOR": "形简而固。",
+    "DESCRIPTIONS": [
+      "轮终时，每持一张牌得 #b",
+      "  点 #y御 。"
+    ]
+  },
+  "Melange": {
+    "NAME": "美琅砂",
+    "FLAVOR": "源不明之秘砂，气若桂。",
+    "DESCRIPTIONS": [
+      "每洗抽牌堆时， #y预视 #b",
+      "  。"
+    ]
+  },
+  "Yin": {
+    "NAME": "阴",
+    "FLAVOR": "无光则无暗，果真如此？",
+    "DESCRIPTIONS": [
+      "每轮中，每打一张 #y技牌 ，获 #b1 点暂 #y劲力 。"
+    ]
+  },
+  "InkBottle": {
+    "NAME": "墨甁",
+    "FLAVOR": "每竭即自满异色之墨。",
+    "DESCRIPTIONS": [
+      "每打 #b10 张牌，抽 #b1 张牌。"
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "钨金棍",
+    "FLAVOR": "极重。",
+    "DESCRIPTIONS": [
+      "每失命时，减失命值 #b",
+      "  点。"
+    ]
+  },
+  "HolyWater": {
+    "NAME": "圣水",
+    "FLAVOR": "自高塔未现之时，所集之水也。",
+    "DESCRIPTIONS": [
+      "每战初启，置 #b3 张 #y奇迹 于汝手。"
+    ]
+  },
+  "PureWater": {
+    "NAME": "至纯之水",
+    "FLAVOR": "以极细沙粒滤之，去尽诸秽。",
+    "DESCRIPTIONS": [
+      "每战初启，置一 #y奇迹 于汝手。"
+    ]
+  },
+  "HornCleat": {
+    "NAME": "船夹板",
+    "FLAVOR": "握之莫名欣悦，此何物耶？",
+    "DESCRIPTIONS": [
+      "汝之第二回合初，得 #b",
+      "  点 #y格挡 。"
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "舵盘",
+    "FLAVOR": "木质之物精雕，上镌异文之名。",
+    "DESCRIPTIONS": [
+      "汝之第三回合初，得 #b",
+      "  点 #y格挡 。"
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "黄金眼",
+    "FLAVOR": "可视近者心念，预其将来之行。",
+    "DESCRIPTIONS": [
+      "汝每 #y预见 时，复 #y预见 #b",
+      "  张牌。"
+    ]
+  },
+  "Damaru": {
+    "NAME": "手摇鼓",
+    "FLAVOR": "小鼓之声令汝神清，似见前方何处有路。",
+    "DESCRIPTIONS": [
+      "汝之回合初，得 #b",
+      "  层 #y真言 。"
+    ]
+  }
+}

@@ -1,0 +1,1317 @@
+{
+  "Accuracy": {
+    "NAME": "准之精",
+    "DESCRIPTIONS": [
+      "#y刃器 造 #b",
+      " 点外加之伤。"
+    ]
+  },
+  "After Image": {
+    "NAME": "残影之象",
+    "DESCRIPTIONS": [
+      "每出一牌，得 #b",
+      " 点 #y御守 。"
+    ]
+  },
+  "Amplify": {
+    "NAME": "增之力",
+    "DESCRIPTIONS": [
+      "此回合内，次张 #y能牌 复现二度。",
+      "此回合内，尔下 ",
+      " 张 #y能牌 复现二度。"
+    ]
+  },
+  "Anger": {
+    "NAME": "怒之激",
+    "DESCRIPTIONS": [
+      "每出一 #y技牌 ，得 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "Angry": {
+    "NAME": "气生",
+    "DESCRIPTIONS": [
+      "每值 ",
+      " 受 #y攻伐 之伤，即获 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "Artifact": {
+    "NAME": "人造之物",
+    "DESCRIPTIONS": [
+      "避 #b",
+      " 次恶效。",
+      " 次恶效。"
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "攻之焚",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合内，每出一 #y攻牌 ，皆 #y耗之 。",
+      "于 #b",
+      " 回合内，每出一 #y攻牌 ，皆 #y耗之 。"
+    ]
+  },
+  "Barricade": {
+    "NAME": "壁障",
+    "DESCRIPTIONS": [
+      " #y御守 不于回合初消。",
+      " #y御守 不于回合初消。"
+    ]
+  },
+  "Berserk": {
+    "NAME": "狂怒",
+    "DESCRIPTIONS": [
+      "于回合初获 ",
+      " 。"
+    ]
+  },
+  "Bias": {
+    "NAME": "偏之差",
+    "DESCRIPTIONS": [
+      "于回合初，失 #b",
+      " 层 #y凝神 。"
+    ]
+  },
+  "Blur": {
+    "NAME": "影残",
+    "DESCRIPTIONS": [
+      " #y御守 不于次回合初消。",
+      " #y御守 不于下 #b",
+      " 回合初消。"
+    ]
+  },
+  "Brutality": {
+    "NAME": "暴残",
+    "DESCRIPTIONS": [
+      "于回合初，失 #b",
+      " 命数并抽 #b",
+      " 张牌。",
+      "于回合初，失 #b",
+      " 点命数并抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Buffer": {
+    "NAME": "冲之缓",
+    "DESCRIPTIONS": [
+      "阻下次命值之损。",
+      "阻下 #b",
+      " 次命值之损。"
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "弹时",
+    "DESCRIPTIONS": [
+      "诸绿牌耗能化零。"
+    ]
+  },
+  "Burst": {
+    "NAME": "爆之发",
+    "DESCRIPTIONS": [
+      "此回合内，次张 #y技牌 复现二度。",
+      "此回合内，尔下 ",
+      " 张 #y技牌 复现二度。"
+    ]
+  },
+  "Choked": {
+    "NAME": "颈之勒",
+    "DESCRIPTIONS": [
+      "此回合每出一牌，即失 #b",
+      " 点命数。"
+    ]
+  },
+  "Combust": {
+    "NAME": "燃自",
+    "DESCRIPTIONS": [
+      "于回合末，失 #b",
+      " 点命数并伤诸敌 #b",
+      " 点伤。"
+    ]
+  },
+  "Confusion": {
+    "NAME": "乱混",
+    "DESCRIPTIONS": [
+      "每抽一牌，耗能随机易变。"
+    ]
+  },
+  "Conserve": {
+    "NAME": "留保",
+    "DESCRIPTIONS": [
+      "于回合末，存余 #y能量 至下回。",
+      "于随后 #b",
+      " 回合末，存余 #y能量 至下回。"
+    ]
+  },
+  "Constricted": {
+    "NAME": "绕缠",
+    "DESCRIPTIONS": [
+      "于回合末，受 #b",
+      " 点伤。"
+    ]
+  },
+  "Corruption": {
+    "NAME": "化腐",
+    "DESCRIPTIONS": [
+      "技牌耗能化 #b0。 每出一 #y技牌 ，皆 #y耗之 。",
+      "每出一 #y技牌 ，皆 #y耗之 。"
+    ]
+  },
+  "Creative AI": {
+    "NAME": "创生之智",
+    "DESCRIPTIONS": [
+      "于回合初，增 #b",
+      " 张随 能牌 入手。（除“自愈”）",
+      " 张随 能牌 入手。（除“自愈”）"
+    ]
+  },
+  "Curiosity": {
+    "NAME": "奇之好",
+    "DESCRIPTIONS": [
+      "每出一 #y能牌 ，得 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "Curl Up": {
+    "NAME": "身蜷",
+    "DESCRIPTIONS": [
+      "当受 #y攻伐 伤时，蜷身获 ",
+      " 点 #y御守 。（每战一度）"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "舞之人偶",
+    "DESCRIPTIONS": [
+      "每出一非技牌，受 #b",
+      " 点伤。（牌类每回易）",
+      "每出一非攻牌，受 #b",
+      "+1 舞之人偶"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "暗之拥",
+    "DESCRIPTIONS": [
+      "每有一牌 #y耗之 ，抽 #b1 张牌。",
+      "每有一牌 #y耗之 ，抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Demon Form": {
+    "NAME": "魔之形",
+    "DESCRIPTIONS": [
+      "于回合初，获 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "DexLoss": {
+    "NAME": "敏之降",
+    "DESCRIPTIONS": [
+      "于回合末，失 #b",
+      " 点 #y敏巧 。"
+    ]
+  },
+  "Dexterity": {
+    "NAME": "灵躯",
+    "DESCRIPTIONS": [
+      "自牌得 #y障壁 增 #b",
+      "自牌得 #y障壁 减 #b",
+      "。"
+    ]
+  },
+  "Double Damage": {
+    "NAME": "倍伤",
+    "DESCRIPTIONS": [
+      "#y攻伐 伤倍之，效 #b",
+      " 回合。",
+      " 回合。"
+    ]
+  },
+  "Double Tap": {
+    "NAME": "双发",
+    "DESCRIPTIONS": [
+      "此回合，汝下一 #y攻牌 将击二度。",
+      "此回合，汝下 ",
+      " 张 #y攻牌 击二度。"
+    ]
+  },
+  "Draw": {
+    "NAME": "抽牌",
+    "DESCRIPTIONS": [
+      "#b",
+      " 张增抽，每回合始时。",
+      " 张减抽，每回合始时。",
+      " 张增抽，每回合始时。",
+      " 张减抽，每回合始时。"
+    ]
+  },
+  "Draw Card": {
+    "NAME": "抽牌",
+    "DESCRIPTIONS": [
+      "下回合抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Draw Down": {
+    "NAME": "抽减",
+    "DESCRIPTIONS": [
+      "下回合抽减 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "抽减",
+    "DESCRIPTIONS": [
+      "下回合抽减 #b1 张牌。",
+      "下 #b",
+      " 回合抽减 #b1 张牌。"
+    ]
+  },
+  "Echo Form": {
+    "NAME": "回响形",
+    "DESCRIPTIONS": [
+      "每回合汝首张牌将击二度。",
+      "每回合汝前 #b",
+      " 张牌击二度。"
+    ]
+  },
+  "Electro": {
+    "NAME": "电动",
+    "DESCRIPTIONS": [
+      "#y雷光 将中诸敌。",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "能升",
+    "DESCRIPTIONS": [
+      "下回合得增 #b",
+      " [G] 。",
+      " [G] 。",
+      " - 译者注：- 上行为复数形式，若需与单数区分。"
+    ]
+  },
+  "Entangled": {
+    "NAME": "缠身",
+    "DESCRIPTIONS": [
+      "此回合汝不可击 #y攻牌 。"
+    ]
+  },
+  "Envenom": {
+    "NAME": "涂毒",
+    "DESCRIPTIONS": [
+      "每造未挡 #y攻 伤，予 #b",
+      " #y层毒。"
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "均衡",
+    "DESCRIPTIONS": [
+      "此回合持汝手牌。",
+      "于后 #b",
+      " 回合持汝手牌。"
+    ]
+  },
+  "Evolve": {
+    "NAME": "进化",
+    "DESCRIPTIONS": [
+      "每抽一 #y态 牌，抽一牌。",
+      "每抽一 #y态 牌，抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Explosive": {
+    "NAME": "爆",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合后，爆并造 #b",
+      " 点伤。",
+      "于其下回合始时，爆并造 #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "增牌",
+    "DESCRIPTIONS": [
+      "下回合抽增 #b1 张牌。",
+      "下回合抽增 #b",
+      " 张牌。"
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "无痛",
+    "DESCRIPTIONS": [
+      "每有一牌被 #y耗 ，得 #b",
+      " 点 #y障壁 。"
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "火息",
+    "DESCRIPTIONS": [
+      "每抽一 #y态 或 #y咒 牌时，对诸敌造 #b",
+      " 点伤。"
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "火障",
+    "DESCRIPTIONS": [
+      "每受一 #y攻 ，造 #b",
+      " 点反伤。"
+    ]
+  },
+  "Flex": {
+    "NAME": "活肌",
+    "DESCRIPTIONS": [
+      "汝回合终时，失 #b",
+      " 点 #y力 。"
+    ]
+  },
+  "Flight": {
+    "NAME": "飞",
+    "DESCRIPTIONS": [
+      "所受 #y攻 伤减 #b50% 。 若一回合内被 #y攻 伤 #b",
+      " 次，即消。"
+    ]
+  },
+  "Focus": {
+    "NAME": "凝",
+    "DESCRIPTIONS": [
+      "诸充能球效增 #b",
+      "诸充能球效减 #b",
+      " 点。（等离子球不受）"
+    ]
+  },
+  "Frail": {
+    "NAME": "脆",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合内，自牌得 #y障壁 减 #b25% 。",
+      " 回合内，自牌得 #y障壁 减 #b25% 。"
+    ]
+  },
+  "Gambit": {
+    "NAME": "布局",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合后，得 ",
+      " 回合后，得 ",
+      " [B] 。"
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "其回合终时，得 #b",
+      " 点 #y力 。"
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "生长",
+    "DESCRIPTIONS": [
+      "其回合终时，得 #b",
+      " 点 #y力 。"
+    ]
+  },
+  "Heatsink": {
+    "NAME": "散热",
+    "DESCRIPTIONS": [
+      "尔每施能牌，抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Hello": {
+    "NAME": "汝安",
+    "DESCRIPTIONS": [
+      "回合始时，添 #b",
+      " 张随常牌入手。",
+      " 张随常牌入手。"
+    ]
+  },
+  "Hex": {
+    "NAME": "邪咒",
+    "DESCRIPTIONS": [
+      "每施非攻牌，则置 #b",
+      " 张 #y昏眩 乱入牌列。"
+    ]
+  },
+  "Hide": {
+    "NAME": "匿形",
+    "DESCRIPTIONS": [
+      "至下回合启前，不遭伤损。",
+      "尔于 #b",
+      " 回合内不遭伤损。"
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "刃无穷",
+    "DESCRIPTIONS": [
+      "回合启时，得 #b",
+      " 张 #y刃芒 。",
+      " 张 #y刃芒 。"
+    ]
+  },
+  "Intangible": {
+    "NAME": "无实体",
+    "DESCRIPTIONS": [
+      "本回合诸伤与命减之效皆降至 #b1 。无实体隔一轮回生效。"
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "无实体",
+    "DESCRIPTIONS": [
+      "诸伤与命减之效皆降至 #b1 。"
+    ]
+  },
+  "Inverted": {
+    "NAME": "逆理",
+    "DESCRIPTIONS": [
+      "免诸伤损。每得 #y格挡 ，则失同数命元。"
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "势难挡",
+    "DESCRIPTIONS": [
+      "每得 #y格挡 时，对随机敌施 #b",
+      " 点伤损。"
+    ]
+  },
+  "Knowledge": {
+    "NAME": "知渊",
+    "DESCRIPTIONS": [
+      "每施 #y能牌 ，抽 #b",
+      " 张牌。"
+    ]
+  },
+  "Life Link": {
+    "NAME": "命相连",
+    "DESCRIPTIONS": [
+      "若他敌犹存，则 #b2 回合后以 #b50% 命元复生。"
+    ]
+  },
+  "Lockon": {
+    "NAME": "锁踪",
+    "DESCRIPTIONS": [
+      "自充能球所受之伤增 #b",
+      " ，续 #b",
+      " 回合。",
+      " 回合。"
+    ]
+  },
+  "Loop": {
+    "NAME": "轮回",
+    "DESCRIPTIONS": [
+      "回合启时，施最右充能球之被动能。",
+      "回合启时，施最右充能球之被动能 #b",
+      " 次。"
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "机学",
+    "DESCRIPTIONS": [
+      "每回合启时额外抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Magnetism": {
+    "NAME": "磁引",
+    "DESCRIPTIONS": [
+      "回合启时，添 #b%s 张随无色牌入手。",
+      "回合启时，添 #b%s 张随无色牌入手。"
+    ]
+  },
+  "Malleable": {
+    "NAME": "柔韧",
+    "DESCRIPTIONS": [
+      "遭 #y攻击 时，得 #b",
+      " 点 #y格挡 。 ",
+      " 每触发，所得 #y格挡 值俱增。回合启时复归 #b",
+      " 点。"
+    ]
+  },
+  "Metallicize": {
+    "NAME": "金铁躯",
+    "DESCRIPTIONS": [
+      "回合终时得 #b",
+      " 点 #y格挡 。",
+      "其回合终时得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Minion": {
+    "NAME": "爪牙",
+    "DESCRIPTIONS": [
+      "爪牙见其主亡则弃战。"
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "形变",
+    "DESCRIPTIONS": [
+      "受 #b",
+      " 点伤后，化守形。"
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "下轮格挡",
+    "DESCRIPTIONS": [
+      "下回合启时，得 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "Night Terror": {
+    "NAME": "夜魇",
+    "DESCRIPTIONS": [
+      "下回合启时，添 #b",
+      " 入手牌。"
+    ]
+  },
+  "No Attack": {
+    "NAME": "攻不得",
+    "DESCRIPTIONS": [
+      "此回合不得施 #y攻击牌 。"
+    ]
+  },
+  "No Draw": {
+    "NAME": "抽不得",
+    "DESCRIPTIONS": [
+      "回合终前不得复抽牌。"
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "毒雾",
+    "DESCRIPTIONS": [
+      "回合启时，予诸敌 #b",
+      " 层 #y中毒 。"
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "攻无视",
+    "DESCRIPTIONS": [
+      "每回合尽 #y格挡 一回 #y攻击 。"
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "刺痛",
+    "DESCRIPTIONS": [
+      "每此敌伤尔时，于弃牌堆添一张 #y伤口 。"
+    ]
+  },
+  "Panache": {
+    "NAME": "神气胜",
+    "DESCRIPTIONS": [
+      "此回合内再施 #b",
+      " 张牌，则对诸敌施 #b",
+      " 点伤。",
+      " 张牌，则对诸敌施 #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "笔锋",
+    "DESCRIPTIONS": [
+      "尔下一次 #y攻击 成倍伤。"
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "幻影",
+    "DESCRIPTIONS": [
+      "下回合成 #y倍伤 。",
+      "下 ",
+      " 回合成 #y倍伤 。"
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "重甲",
+    "DESCRIPTIONS": [
+      "回合终时得 #b",
+      " 点 #y格挡 。遭攻伤失命时， #y重甲 层数减 #b1 。",
+      "其回合终时得 #b",
+      " 点 #y格挡 。遭攻伤失命时， #y重甲 层数减 #b1 。"
+    ]
+  },
+  "Poison": {
+    "NAME": "中毒",
+    "DESCRIPTIONS": [
+      "回合启时，减 #b",
+      " 点命元并将 #y中毒 层数减 #b1 。",
+      "其回合启时，减 #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "预立",
+    "DESCRIPTIONS": [
+      "尔每 #y凝成 一球能充，抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Primitive": {
+    "NAME": "元始",
+    "DESCRIPTIONS": [
+      "尔每发一 凡常 牌，抽 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Rage": {
+    "NAME": "忿怒",
+    "DESCRIPTIONS": [
+      "此回合尔每发一击攻牌，获 #b",
+      " 点 #y御守 。"
+    ]
+  },
+  "Rebound": {
+    "NAME": "回弹",
+    "DESCRIPTIONS": [
+      "此回合尔所发次张牌，将置于抽牌堆之顶。",
+      "此回合尔所发下 #b",
+      " 张牌，将置于抽牌堆之顶。"
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "减伤",
+    "DESCRIPTIONS": [
+      "所受之伤减 #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "复生",
+    "DESCRIPTIONS": [
+      "其回合终时复 #b",
+      " 点 #y命元 。"
+    ]
+  },
+  "Regeneration": {
+    "NAME": "复生",
+    "DESCRIPTIONS": [
+      "尔回合终时复 #b",
+      " 点 #y命元 ，乃减 #y复生 层数 #b1 。",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "修葺",
+    "DESCRIPTIONS": [
+      "战事终时，复 #b",
+      " 点命元。"
+    ]
+  },
+  "Repulse": {
+    "NAME": "逆冲",
+    "DESCRIPTIONS": [
+      "每值 ",
+      " 受击攻之伤，置一 #y创口 入尔手牌。"
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "存牌",
+    "DESCRIPTIONS": [
+      "每回合终时，尔可存 #b",
+      " 张牌。",
+      " 张牌。"
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "存手牌",
+    "DESCRIPTIONS": [
+      "尔回合终时，不弃手牌。效续 #b",
+      " 回合。",
+      "尔回合终时，不弃手牌。"
+    ]
+  },
+  "Riposte": {
+    "NAME": "逆刺",
+    "DESCRIPTIONS": [
+      "每回合一次，对尔发 #y击攻牌 时，致尔 #b",
+      " 点伤创。"
+    ]
+  },
+  "Ritual": {
+    "NAME": "仪典",
+    "DESCRIPTIONS": [
+      "其回合终时，获 #b",
+      " 点 #y力劲 。",
+      "尔回合终时，获 #b"
+    ]
+  },
+  "Rupture": {
+    "NAME": "裂伤",
+    "DESCRIPTIONS": [
+      "当尔自一牌失命元时，获 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "Sadistic": {
+    "NAME": "虐残",
+    "DESCRIPTIONS": [
+      "当尔予一敌负面状时，致其 #b",
+      " 点伤创。"
+    ]
+  },
+  "Serpentine": {
+    "NAME": "蛇形",
+    "DESCRIPTIONS": [
+      "避 #y药水 。"
+    ]
+  },
+  "Shackled": {
+    "NAME": "桎梏",
+    "DESCRIPTIONS": [
+      "其回合终时复 #b",
+      " 点 #y力劲 。"
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "锐壳",
+    "DESCRIPTIONS": [
+      "尔每发一 #y击攻牌 ，即受 #b",
+      " 点伤创。"
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "渊底尖啸",
+    "DESCRIPTIONS": [
+      "每值尔发一击攻牌，即弃一随机手牌。"
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "技焚",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合内，尔每发一 #y技之牌 ，皆将其 #y耗消 。",
+      "于 #b",
+      " 回合内，尔每发一 #y技之牌 ，皆将其 #y耗消 。"
+    ]
+  },
+  "Slow": {
+    "NAME": "迟滞",
+    "DESCRIPTIONS": [
+      "此回合尔每发一卡牌， ",
+      " 自 #y击攻 所受之伤增 #b10% 。",
+      " （受 #b",
+      "% 外增伤）"
+    ]
+  },
+  "Split": {
+    "NAME": "裂分",
+    "DESCRIPTIONS": [
+      "当命元等或低于 #b50% 时，将裂为 #b2 只小史莱姆，各具 ",
+      " 现时命元。"
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "孢云",
+    "DESCRIPTIONS": [
+      "亡殁时，予尔 #b",
+      " 回合之 #y易伤 。"
+    ]
+  },
+  "Stasis": {
+    "NAME": "滞凝",
+    "DESCRIPTIONS": [
+      "亡殁时， ",
+      " 将回置尔手牌。"
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "释电",
+    "DESCRIPTIONS": [
+      "当尔受 #y击攻 伤时， #y凝成 #b",
+      " 个 #y闪电 能充球。"
+    ]
+  },
+  "Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTIONS": [
+      "尔每发一 #b能之牌 ， #y凝成 #b ",
+      " 个 #y闪电 能充球。"
+    ]
+  },
+  "Strength": {
+    "NAME": "力劲",
+    "DESCRIPTIONS": [
+      "击攻伤提 #b",
+      "击攻伤降 #b",
+      " 。"
+    ]
+  },
+  "Thievery": {
+    "NAME": "窃取",
+    "DESCRIPTIONS": [
+      " 击攻时将窃 #b",
+      " #y金铢 。"
+    ]
+  },
+  "Thorns": {
+    "NAME": "棘荆",
+    "DESCRIPTIONS": [
+      "每受一次 #y击攻 ，致 #b",
+      " 点逆伤。"
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "千剐",
+    "DESCRIPTIONS": [
+      "尔每发一牌，皆致诸敌 #b",
+      " 点伤创。"
+    ]
+  },
+  "Time Warp": {
+    "NAME": "时曲",
+    "DESCRIPTIONS": [
+      "每施放 #b",
+      " 张牌，汝之回合强终，时噬者获 #b",
+      " 点 #y力 。"
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "必备器具",
+    "DESCRIPTIONS": [
+      "回合始时，抽 #b",
+      " 张牌，弃 #b",
+      " 张牌。",
+      " 张牌，弃 #b",
+      " 张牌。"
+    ]
+  },
+  "Unawakened": {
+    "NAME": "未觉",
+    "DESCRIPTIONS": [
+      "此敌尚未觉……"
+    ]
+  },
+  "Unstable": {
+    "NAME": "不稳",
+    "DESCRIPTIONS": [
+      "造足伤，可使其失衡。"
+    ]
+  },
+  "Venomology": {
+    "NAME": "毒理研",
+    "DESCRIPTIONS": [
+      " #y中毒 态不每回减，乃每回增 #b",
+      " 层。"
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "易伤",
+    "DESCRIPTIONS": [
+      "受 #y攻 之伤增 #b",
+      "% 。持时 #b",
+      " 回合。",
+      " 回合。"
+    ]
+  },
+  "Weakened": {
+    "NAME": "虚弱",
+    "DESCRIPTIONS": [
+      " #y攻 造之伤减 #b",
+      "% 。持时 #b",
+      " 回合。",
+      " 回合。"
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "幽魂形",
+    "DESCRIPTIONS": [
+      "回合终时，失 #b",
+      " 点 #y敏 。"
+    ]
+  },
+  "Shifting": {
+    "NAME": "变化",
+    "DESCRIPTIONS": [
+      "每受 ",
+      " 伤，其于回合终前失相应点数 #y力 。"
+    ]
+  },
+  "Fading": {
+    "NAME": "消逝",
+    "DESCRIPTIONS": [
+      "于 #b",
+      " 回合后亡。",
+      "本回合亡。"
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "能升",
+    "DESCRIPTIONS": [
+      "下回获额外 #b",
+      " [B] 。",
+      " [B] 。",
+      " - 译者注：- 上行为复数形式，若需与单数区分。"
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "时之迷宫",
+    "DESCRIPTIONS": [
+      "每施放 #b",
+      " 张牌，汝之回合强终。"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "无格挡",
+    "DESCRIPTIONS": [
+      "汝无法从牌获 #y格挡 。"
+    ]
+  },
+  "Mayhem": {
+    "NAME": "乱战",
+    "DESCRIPTIONS": [
+      "回合始时，施抽牌堆顶之牌。",
+      "回合始时，施抽牌堆顶 #b",
+      " 张牌。"
+    ]
+  },
+  "TheBomb": {
+    "NAME": "爆弹",
+    "DESCRIPTIONS": [
+      "于 #b%1$s 回合终后，对所有敌造 #b%2$s 伤。",
+      "本回合终时，对所有敌造 #b%1$s 伤。"
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "尸爆术",
+    "DESCRIPTIONS": [
+      "当此敌亡时，对所有敌造等同其最大命之伤。",
+      "当此敌亡时，对所有敌造等同其最大命 #b",
+      " 倍之伤。"
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "死之律动",
+    "DESCRIPTIONS": [
+      "汝每施一张牌，受 #b",
+      " 点伤。"
+    ]
+  },
+  "Invincible": {
+    "NAME": "不摧",
+    "DESCRIPTIONS": [
+      "本回合内至多失 #b",
+      " 命。",
+      "本回合内不再受伤。"
+    ]
+  },
+  "Compulsive": {
+    "NAME": "扭动",
+    "DESCRIPTIONS": [
+      "受攻伤时，变己之行图。"
+    ]
+  },
+  "Surrounded": {
+    "NAME": "夹击",
+    "DESCRIPTIONS": [
+      "后方受之伤增 #b50% 。用可选目标之牌与药可变汝朝向。"
+    ]
+  },
+  "BackAttack": {
+    "NAME": "后击",
+    "DESCRIPTIONS": [
+      "因后方攻汝，造之伤增 #b50% 。"
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "免攻",
+    "DESCRIPTIONS": [
+      "汝施下一张 #y攻牌 无视耗。",
+      "汝施下 #b",
+      " 张 #y攻牌 无视耗。"
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "复制",
+    "DESCRIPTIONS": [
+      "本回合汝下一张牌被施二次。",
+      "本回合汝下 ",
+      " 张牌被施二次。"
+    ]
+  },
+  "NoSkills": {
+    "NAME": "禁技",
+    "DESCRIPTIONS": [
+      "本回合汝不能施 #y技牌 。"
+    ]
+  },
+  "Mastery": {
+    "NAME": "精通",
+    "DESCRIPTIONS": [
+      "每汝试将 姿态 转为当前 姿态 时，获 #b",
+      " [B]。"
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "操现实",
+    "DESCRIPTIONS": [
+      "战中临时增之牌将被 #y升 。",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED 报应",
+    "DESCRIPTIONS": [
+      "每失命，获 #b",
+      " #y活力。"
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "立基",
+    "DESCRIPTIONS": [
+      "每有牌被 #y保留 时，将其耗减 #b",
+      " 。"
+    ]
+  },
+  "Controlled": {
+    "NAME": "心堡",
+    "DESCRIPTIONS": [
+      "每汝转 #y姿态 时，获 #b",
+      " 点 #y格挡 。"
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED 流力",
+    "DESCRIPTIONS": [
+      "施攻时，获 #b",
+      " 临时 #y力。施技时，获 #b,",
+      "暂得#y灵巧"
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "终焉之仪",
+    "DESCRIPTIONS": [
+      "回合终焉时，诸敌皆受#b",
+      "点伤厄"
+    ]
+  },
+  "Nirvana": {
+    "NAME": "涅槃境",
+    "DESCRIPTIONS": [
+      "每入预见境，得#b",
+      "点#y御守"
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "先觉",
+    "DESCRIPTIONS": [
+      "回合初启，#y预见",
+      "境"
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "战谒",
+    "DESCRIPTIONS": [
+      "回合初临，手牌添#b",
+      "张#y天罚",
+      "张#y天罚"
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED 地缚",
+    "DESCRIPTIONS": [
+      "每施#y技，入#y止水境"
+    ]
+  },
+  "Mantra": {
+    "NAME": "真言咒",
+    "DESCRIPTIONS": [
+      "当得#b",
+      "重#y真言，证#y神格"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "破势",
+    "DESCRIPTIONS": [
+      "凡冠#y打击之名者，增#b",
+      "点破敌势"
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED 欢欣",
+    "DESCRIPTIONS": [
+      "此回合下一牌，无需耗费",
+      "下#b",
+      "牌皆免耗费"
+    ]
+  },
+  "Adaptation": {
+    "NAME": "虎狩",
+    "DESCRIPTIONS": [
+      "每入#y怒境，抽#b",
+      "符",
+      "符"
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "形固",
+    "DESCRIPTIONS": [
+      "此回合形不可易"
+    ]
+  },
+  "Vault": {
+    "NAME": "云跃",
+    "DESCRIPTIONS": [
+      "次回合初临，承#b",
+      "点反噬"
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "御返",
+    "DESCRIPTIONS": [
+      "受汝击时，得#b",
+      "点#y御守"
+    ]
+  },
+  "HotHot": {
+    "NAME": "炽炽",
+    "DESCRIPTIONS": [
+      "处#y怒境时，还击#b",
+      "点灼热"
+    ]
+  },
+  "AngelForm": {
+    "NAME": "天人相",
+    "DESCRIPTIONS": [
+      "回合终焉，得#b",
+      "重#y天罡"
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED 心乱",
+    "DESCRIPTIONS": [
+      "回合初临，随机入基础境"
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "常怒",
+    "DESCRIPTIONS": [
+      "处#y怒境不承倍伤"
+    ]
+  },
+  "Collect": {
+    "NAME": "聚珍",
+    "DESCRIPTIONS": [
+      "次回合初，手牌添#y神迹+",
+      "下#b",
+      "回合初，得#y神迹+"
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED 凝华",
+    "DESCRIPTIONS": [
+      "单次承伤不逾#b",
+      "点"
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED 止水",
+    "DESCRIPTIONS": [
+      "处#y止水境，伤减#b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "神厌",
+    "DESCRIPTIONS": [
+      "回合初临即陨落"
+    ]
+  },
+  "Vigor": {
+    "NAME": "生气",
+    "DESCRIPTIONS": [
+      "下次攻击增#b",
+      "点破敌势"
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "虔心",
+    "DESCRIPTIONS": [
+      "回合初临，得#b",
+      "重#y真言"
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "焚心",
+    "DESCRIPTIONS": [
+      "回合初临入#y怒境"
+    ]
+  },
+  "DevaForm": {
+    "NAME": "天人相",
+    "DESCRIPTIONS": [
+      "回合初临，得[W]",
+      "回合初临，得[W] #b",
+      "度",
+      "，后增#b",
+      "度",
+      "回合初临，得[W] #b2度，后增#b1度"
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "全知",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "拂尘",
+    "DESCRIPTIONS": [
+      "此回合每得#y御守，诸敌获#b",
+      "重#y衰颓"
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "断食",
+    "DESCRIPTIONS": [
+      "回合初临，失",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED 戒律",
+    "DESCRIPTIONS": [
+      "回合终有余[W]，则次回合抽牌如数"
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED 拂指",
+    "DESCRIPTIONS": [
+      "此敌再受#y拂指#b",
+      "度时，承#b",
+      "度时，承#b",
+      "点内伤"
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "印契",
+    "DESCRIPTIONS": [
+      "每施#y点穴，此敌失#b",
+      "点生机"
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "若水",
+    "DESCRIPTIONS": [
+      "回合终焉若处#y止水，得#b",
+      "点#y御守"
+    ]
+  },
+  "Study": {
+    "NAME": "参悟",
+    "DESCRIPTIONS": [
+      "汝回合终焉时，于抽牌堆中添入 #b",
+      " 枚 #y洞见 。",
+      " 枚 #y洞见 。"
+    ]
+  }
+}

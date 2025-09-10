@@ -1,0 +1,320 @@
+{
+  "Ancient Potion": {
+    "NAME": "玄古药剂",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "重 #y人造物 。"
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "攻伐药饮",
+    "DESCRIPTIONS": [
+      "自 #b3 张攻牌择 #b1 张入手。此牌本回耗能化 #b0 。",
+      "择 #b1 攻牌入 #b2 次手。二牌本回耗能皆化 #b0 。"
+    ]
+  },
+  "Block Potion": {
+    "NAME": "御守药汤",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "点 #y守御 。"
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "血饮",
+    "DESCRIPTIONS": [
+      "复命之极 #b",
+      "% 。"
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "迅捷药浆",
+    "DESCRIPTIONS": [
+      "获 #b",
+      "点 #y灵巧 。"
+    ]
+  },
+  "Elixir": {
+    "NAME": "长生饮",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "DEPRECATED",
+      "",
+      "DEPRECATED"
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "气力药汤",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "点气力。"
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "混沌酿",
+    "DESCRIPTIONS": [
+      "空药栏皆得随机药饮。"
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "钢髓",
+    "DESCRIPTIONS": [
+      "获 #b",
+      "重 #y甲胄 。"
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "爆裂药浆",
+    "DESCRIPTIONS": [
+      "诸敌皆受 #b",
+      "点创。"
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "瓶中小精",
+    "DESCRIPTIONS": [
+      "将死之际，免殒复命至 #b",
+      "% ，弃此药。"
+    ]
+  },
+  "FearPotion": {
+    "NAME": "畏药",
+    "DESCRIPTIONS": [
+      "予 #b",
+      "重 #y破绽 。"
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "炎饮",
+    "DESCRIPTIONS": [
+      "造 #b",
+      "点灼伤。"
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "凝神药汤",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "点 #y凝心 。"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "果浆",
+    "DESCRIPTIONS": [
+      "获 #b",
+      "点命极。"
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "博徒秘酿",
+    "DESCRIPTIONS": [
+      "弃牌若干，抽同数之牌。"
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "罂中幽魂",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "重 #y虚体 。"
+    ]
+  },
+  "Health Potion": {
+    "NAME": "命饮",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "流铜",
+    "DESCRIPTIONS": [
+      "获 #b",
+      "点 #y棘刺 。"
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "毒浆",
+    "DESCRIPTIONS": [
+      "予 #b",
+      "重 #y剧毒 。"
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "药栏",
+    "DESCRIPTIONS": [
+      "战中以药得 #g益 或 #r阻敌 。",
+      "药栏"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "能饮",
+    "DESCRIPTIONS": [
+      "自 #b3 能牌择 #b1 张入手。此牌本回耗能化 #b0 。",
+      "择 #b1 能牌入 #b2 次手。二牌本回耗能皆化 #b0 。"
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "复生药汤",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "重 #y自愈 。",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "技饮",
+    "DESCRIPTIONS": [
+      "自 #b3 技牌择 #b1 张入手。此牌本回耗能化 #b0 。",
+      "择 #b1 技牌入 #b2 次手。二牌本回耗能皆化 #b0 。"
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "烟幕弹",
+    "DESCRIPTIONS": [
+      "自非Boss战遁走，无获奖赏。",
+      "遭夹击，难遁逃！"
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "怪蛇油",
+    "DESCRIPTIONS": [
+      "抽 #b",
+      "张牌。手牌耗能皆乱化。",
+      ""
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "速饮",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "点 灵巧 。回合终时，失 #b",
+      "点 灵巧 。"
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "猛力药汤",
+    "DESCRIPTIONS": [
+      "得 #b",
+      "点 刚力 。回合终时，失 #b",
+      "点 刚力 。"
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "力饮",
+    "DESCRIPTIONS": [
+      "获 #b",
+      "点 #y刚力 。"
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "疾饮",
+    "DESCRIPTIONS": [
+      "",
+      "抽 #b",
+      "张牌。"
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "衰药",
+    "DESCRIPTIONS": [
+      "予 #b",
+      "重 #y衰颓 。"
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "复刻药汤",
+    "DESCRIPTIONS": [
+      "此轮次汝之次张牌，当二度施放。",
+      "此轮次汝之次二牌，皆二度施放。"
+    ]
+  },
+  "StancePotion": {
+    "NAME": "姿态灵药",
+    "DESCRIPTIONS": [
+      "入 #y止水 或 #y怒涛 之境。"
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "万应灵药",
+    "DESCRIPTIONS": [
+      "#y焚尽 诸手牌若干。"
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "铁髓",
+    "DESCRIPTIONS": [
+      "得 #b",
+      " 重 #y金躯 。"
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "诡谋灵药",
+    "DESCRIPTIONS": [
+      "添 #b",
+      " 柄 #y刃+ 入手牌。"
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "纳物灵药",
+    "DESCRIPTIONS": [
+      "启 #b",
+      " 处蓄能之位。"
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "晦暗精粹",
+    "DESCRIPTIONS": [
+      "诸蓄能之位各 #y凝 #b",
+      " 枚 #y幽暗 蓄能珠。"
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "封缄神迹",
+    "DESCRIPTIONS": [
+      "降 #b",
+      " 道 #y天启 入手牌。"
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "神饌琼浆",
+    "DESCRIPTIONS": [
+      "临 #y神临 #y圣姿 。"
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "炼沌精华",
+    "DESCRIPTIONS": [
+      "施抽牌堆顶 #b",
+      " 张牌。"
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "流忆秘液",
+    "DESCRIPTIONS": [
+      "择弃牌堆中一牌入手。此牌此轮耗灵 #b0 。",
+      "择弃牌堆中 #b ",
+      " 牌入手。诸牌此轮耗灵皆 #b0 。"
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "异教秘酿",
+    "DESCRIPTIONS": [
+      "获 #b",
+      " 重 #y祭礼 。"
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "无相灵药",
+    "DESCRIPTIONS": [
+      "自 #b3 张随机 #y无相 牌中择 #b1 张入手。此牌此轮耗灵 #b0 。",
+      "自 #b3 张随机 #y无相 牌中择 #b1 张，二度入手。此二牌此轮耗灵皆 #b0 。"
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "锻炉赐福",
+    "DESCRIPTIONS": [
+      "此战中，手牌诸牌尽数升格。"
+    ]
+  }
+}

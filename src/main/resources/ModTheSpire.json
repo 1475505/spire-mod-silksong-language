@@ -1,0 +1,10 @@
+{
+  "modid": "com.silksong.lang",
+  "name": "Silksong Language Pack",
+  "author_list": ["Silksong Team"],
+  "description": "《杀戮尖塔》丝之歌体本地化语言包 - 古典文言文风格的中文本地化mod，为游戏带来独特的古风体验。\n\n特色功能：\n• 完整的古典文言文本地化\n• 覆盖所有游戏内容（卡牌、UI、角色、遗物等）\n• 通过游戏内语言设置即可切换\n• 保持原版游戏平衡性\n\n安装后请在游戏设置中将语言切换为'丝之歌体'即可体验。",
+  "version": "1.0.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod"]
+}

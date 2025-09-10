@@ -1,0 +1,704 @@
+{
+  "AcidSlime_L": {
+    "MOVES": [
+      "腐蚀喷吐",
+      "分裂",
+      "舔舔"
+    ],
+    "NAME": "酸液史莱姆（大）",
+    "DIALOG": [
+      "打断！"
+    ]
+  },
+  "AcidSlime_M": {
+    "MOVES": [
+      "腐蚀喷吐",
+      "舔舔"
+    ],
+    "NAME": "酸液史莱姆（中）",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AcidSlime_S": {
+    "MOVES": [],
+    "NAME": "酸液史莱姆（小）",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Apology Slime": {
+    "MOVES": [],
+    "NAME": "谢罪凝脂",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "AwakenedOne": {
+    "MOVES": [
+      "魂击",
+      "暗霭回响",
+      "涤秽",
+      "污淖"
+    ],
+    "NAME": "醒灵",
+    "DIALOG": [
+      "~呜嘷。。。~",
+      "~毋。。。毋。。~ NL ~。。毋。。。~"
+    ]
+  },
+  "BanditBear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "熊罴",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BanditChild": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "锐儿",
+    "DIALOG": [
+      "熊乎！！！"
+    ]
+  },
+  "BanditLeader": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "罗密欧",
+    "DIALOG": [
+      "熊，前！！",
+      "汝当偿之！！",
+      "毋——！熊！！"
+    ]
+  },
+  "BookOfStabbing": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "刺卷",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "BronzeAutomaton": {
+    "MOVES": [
+      "玄能光缕"
+    ],
+    "NAME": "铜机偃",
+    "DIALOG": [
+      "眩！"
+    ]
+  },
+  "BronzeOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "铜丸",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Byrd": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "异禽",
+    "DIALOG": [
+      "@嘎！@ NL @哑！@",
+      "眩……"
+    ]
+  },
+  "Centurion": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "百夫长",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Champ": {
+    "MOVES": [
+      "守势",
+      "决戮",
+      "击颚"
+    ],
+    "NAME": "魁勇",
+    "DIALOG": [
+      "此乃兵耶？",
+      "来战！",
+      "尽施汝技！ NL @哈哈哈！@",
+      "来击吾！ NL 懦夫！",
+      "~汝激吾矣……~",
+      "@败？@ NL @毋可能！！@",
+      "~逝~ ~殁~ ~。。。~",
+      "纳吾怒！",
+      "@彼乃@ NL @吾之@ @绅！！@"
+    ]
+  },
+  "Chosen": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "天选子",
+    "DIALOG": [
+      "~挣命罢……~"
+    ]
+  },
+  "CorruptHeart": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "蚀心",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Cultist": {
+    "MOVES": [
+      "",
+      "",
+      "诵咒"
+    ],
+    "NAME": "异端徒",
+    "DIALOG": [
+      "@吾力@ NL @无匹！@",
+      "@汝非属@ NL @此境！@",
+      "~吾力~ NL ~竟有匹者……~"
+    ]
+  },
+  "Darkling": {
+    "MOVES": [
+      "呜！呜！"
+    ],
+    "NAME": "玄黯",
+    "DIALOG": [
+      "更生中……"
+    ]
+  },
+  "Deca": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "八躯",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Donu": {
+    "MOVES": [
+      "力环"
+    ],
+    "NAME": "甘环",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Exploder": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "爆机",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FireOrb": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "炎丸",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FlameBruiser": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "炎蛮",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FungiBeast": {
+    "MOVES": [
+      "殖生"
+    ],
+    "NAME": "菌兽",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "MOVES": [
+      "吐络"
+    ],
+    "NAME": "虻",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "MOVES": [
+      "茁长"
+    ],
+    "NAME": "虻",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "GiantHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "巨颅",
+    "DIALOG": [
+      "~时辰至矣~",
+      "~别矣~",
+      "~滴~ ~答~ NL ~滴~ ~答~",
+      "~汝何故~ NL ~尚在此处？~"
+    ]
+  },
+  "GremlinFat": {
+    "MOVES": [
+      "碎灭"
+    ],
+    "NAME": "膘精",
+    "DIALOG": [
+      "",
+      "",
+      "@呜呼，@ NL @呜呼、@ NL @呜呼！否！@"
+    ]
+  },
+  "GremlinLeader": {
+    "MOVES": [
+      "聚！"
+    ],
+    "NAME": "精酋",
+    "DIALOG": [
+      "永勿弃！",
+      "吾等未竭！",
+      "众精，进！",
+      "@退却@ NL @退却哉！@",
+      "@遁命乎！@"
+    ]
+  },
+  "GremlinNob": {
+    "MOVES": [
+      "颅重击",
+      "蛮冲撞"
+    ],
+    "NAME": "巨精",
+    "DIALOG": [
+      "@啊嗷嗷呜嗷！！@"
+    ]
+  },
+  "GremlinThief": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "黠精",
+    "DIALOG": [
+      "",
+      "@吾往@ NL @呼援！@",
+      "@何哉！？@"
+    ]
+  },
+  "GremlinTsundere": {
+    "MOVES": [
+      "卫",
+      "盾击"
+    ],
+    "NAME": "盾精",
+    "DIALOG": [
+      "",
+      "~别矣……~",
+      "此非妙……"
+    ]
+  },
+  "GremlinWarrior": {
+    "MOVES": [
+      "爪挠"
+    ],
+    "NAME": "怒精",
+    "DIALOG": [
+      "",
+      "@吾往@ NL @呼援！@",
+      "遁矣遁矣！"
+    ]
+  },
+  "GremlinWizard": {
+    "MOVES": [
+      "蓄能",
+      "终极爆"
+    ],
+    "NAME": "法精",
+    "DIALOG": [
+      "",
+      "正蓄能哉！",
+      "~将至矣！！~",
+      "@吾往……@ NL @呼援！@",
+      "~过…~ NL ~险矣……~ NL ~遁矣遁矣……~"
+    ]
+  },
+  "Healer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "秘术士",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Hexaghost": {
+    "MOVES": [
+      "高热",
+      "灼烧",
+      "狱火"
+    ],
+    "NAME": "六火魂",
+    "DIALOG": []
+  },
+  "HexaghostBody": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "HexaghostOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "JawWorm": {
+    "MOVES": [
+      "咆哮",
+      "抽打"
+    ],
+    "NAME": "巨颚虫",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Lagavulin": {
+    "MOVES": [
+      "魂吸"
+    ],
+    "NAME": "乐加维林",
+    "DIALOG": [
+      "击晕！",
+      "… NL ……",
+      "…？ NL ……！？",
+      "@！！！@ NL @！？？？@"
+    ]
+  },
+  "Looter": {
+    "MOVES": [
+      "突刺",
+      "劫掠"
+    ],
+    "NAME": "劫者",
+    "DIALOG": [
+      "纳财来！",
+      "@否——！@",
+      "吾烟弹何在……寻之……",
+      "谢汝财矣，嘿嘿"
+    ]
+  },
+  "Maw": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "巨喙",
+    "DIALOG": [
+      "@呜嗷嗷啊嗷！！@"
+    ]
+  },
+  "Mugger": {
+    "MOVES": [
+      "猛冲",
+      "抢劫"
+    ],
+    "NAME": "掠者",
+    "DIALOG": [
+      "速纳来！",
+      "吾遁矣！"
+    ]
+  },
+  "Nemesis": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "天谴",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Orb Walker": {
+    "MOVES": [
+      "强化"
+    ],
+    "NAME": "球行者",
+    "DIALOG": [
+      "盾 NL 启。"
+    ]
+  },
+  "Puppeteer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "偶师",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Repulsor": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "斥机",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Sentry": {
+    "MOVES": [
+      "粉碎"
+    ],
+    "NAME": "哨卫",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Serpent": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔内赘物",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Shelled Parasite": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "壳寄生怪",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBlue": {
+    "MOVES": [
+      "耙击创"
+    ],
+    "NAME": "贩奴者",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverBoss": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "奴首",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlaverRed": {
+    "MOVES": [
+      "刮裂创",
+      "掷罗网"
+    ],
+    "NAME": "贩奴者",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SlimeBoss": {
+    "MOVES": [
+      "猛撼击",
+      "蓄势态",
+      "裂形变",
+      "喷黏涎"
+    ],
+    "NAME": "史莱姆首",
+    "DIALOG": [
+      "~史莱姆……~ NL #r~撼~ #r~击~ #r~！！~",
+      "断！"
+    ]
+  },
+  "SnakePlant": {
+    "MOVES": [
+      "弱化孢"
+    ],
+    "NAME": "蛇形花",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Snecko": {
+    "MOVES": [
+      "惑视凝",
+      "尾扫击",
+      "啮噬咬"
+    ],
+    "NAME": "诡蛇",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SphericGuardian": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "球体守",
+    "DIALOG": [
+      "~察异~ NL ~外来客~"
+    ]
+  },
+  "SpikeSlime_L": {
+    "MOVES": [
+      "舔舔",
+      "分裂"
+    ],
+    "NAME": "尖刺史莱姆（大）",
+    "DIALOG": [
+      "打断！"
+    ]
+  },
+  "SpikeSlime_M": {
+    "MOVES": [
+      "舔舔"
+    ],
+    "NAME": "尖刺史莱姆（中）",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpikeSlime_S": {
+    "MOVES": [],
+    "NAME": "尖刺史莱姆（小）",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Spiker": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "刺机",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "TheCollector": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "藏家",
+    "DIALOG": [
+      "@汝归吾矣！@"
+    ]
+  },
+  "TheGuardian": {
+    "MOVES": [
+      "守势态",
+      "猛痛击",
+      "滚碾",
+      "双劈斩",
+      "旋风气",
+      "蓄势能",
+      "喷蒸汽"
+    ],
+    "NAME": "守卫者",
+    "DIALOG": [
+      "#b~冷卻……~ NL #b~…中…~",
+      "守势……",
+      "#r@摧滅@ NL #r@摧滅@ NL #r@摧滅@",
+      "#r@危殆@ NL #r@危殆@ NL #r@危殆@"
+    ]
+  },
+  "TheGuardianOrb": {
+    "MOVES": [],
+    "NAME": "",
+    "DIALOG": []
+  },
+  "TimeEater": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "噬时者",
+    "DIALOG": [
+      "~噫……~ NL ~…竟有客至…~",
+      "~愚哉……~ NL @何其愚也！@",
+      "~恒常……~ NL ~……未尝…~ NL ~…悦汝……~"
+    ]
+  },
+  "TorchHead": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "炬首",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Transient": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "瞬魔",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "短匕",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "崇蛇士",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "扭结块",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔盾",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "塔矛"
+  }
+}

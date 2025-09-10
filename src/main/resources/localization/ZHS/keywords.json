@@ -1,0 +1,321 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "人造物"
+      ],
+      "DESCRIPTION": "御下次之不良效。"
+    },
+    "BLOCK": {
+      "NAMES": [
+        "格",
+        "blocks"
+      ],
+      "DESCRIPTION": "续至下回始，阻伤害。"
+    },
+    "BURN": {
+      "NAMES": [
+        "灼",
+        "burns"
+      ],
+      "DESCRIPTION": "灼乃状态牌不可出，且伤汝。"
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "生",
+        "生之"
+      ],
+      "DESCRIPTION": "生之球现于汝最右首空位。无空位时，首球自 激发 以腾位。"
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "乱"
+      ],
+      "DESCRIPTION": "每抽牌，其耗能乱变。"
+    },
+    "CURSE": {
+      "NAMES": [
+        "诅"
+      ],
+      "DESCRIPTION": "诅牌乃留牌组之不良牌。"
+    },
+    "DARK": {
+      "NAMES": [
+        "暗",
+        "暗+"
+      ],
+      "DESCRIPTION": "球：每回增伤。 #y激发 时，伤命最少之敌。"
+    },
+    "DAZED": {
+      "NAMES": [
+        "眩"
+      ],
+      "DESCRIPTION": "眩乃状态牌不可出，虚无。"
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "敏"
+      ],
+      "DESCRIPTION": "敏增汝自牌得格值。"
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "虚"
+      ],
+      "DESCRIPTION": "若此牌回合终仍在手，则耗。耗牌战终前移出牌组。"
+    },
+    "EVOKE": {
+      "NAMES": [
+        "激",
+        "激"
+      ],
+      "DESCRIPTION": "耗汝最右球，用其 激 效。"
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "耗",
+        "exhausted",
+        "exhausts"
+      ],
+      "DESCRIPTION": "战终前移出牌组。"
+    },
+    "FOCUS": {
+      "NAMES": [
+        "凝"
+      ],
+      "DESCRIPTION": "凝 强 球 效。"
+    },
+    "FRAIL": {
+      "NAMES": [
+        "脆"
+      ],
+      "DESCRIPTION": "处脆时，汝自牌得 #y格 减 #b25% 。"
+    },
+    "FROST": {
+      "NAMES": [
+        "霜",
+        "霜+"
+      ],
+      "DESCRIPTION": "球：得 #y格。"
+    },
+    "INNATE": {
+      "NAMES": [
+        "固"
+      ],
+      "DESCRIPTION": "每战始，此牌现于手。"
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "无实"
+      ],
+      "DESCRIPTION": "受一切伤与命减效降为 #b1 。"
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "电",
+        "电+"
+      ],
+      "DESCRIPTION": "球：伤随机敌。"
+    },
+    "LOCKED": {
+      "NAMES": [
+        "锁"
+      ],
+      "DESCRIPTION": "此牌尚未解。"
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "等离",
+        "等离+"
+      ],
+      "DESCRIPTION": "球：得 力 。"
+    },
+    "POISON": {
+      "NAMES": [
+        "毒",
+        "poisoned"
+      ],
+      "DESCRIPTION": "毒物其回始失命。毒层每回降 #b1 。"
+    },
+    "RETAIN": {
+      "NAMES": [
+        "留",
+        "retains",
+        "retained"
+      ],
+      "DESCRIPTION": "留牌回合终不入弃堆。"
+    },
+    "SHIV": {
+      "NAMES": [
+        "匕",
+        "shivs"
+      ],
+      "DESCRIPTION": "匕乃耗之 #b0 耗力攻牌。"
+    },
+    "STATUS": {
+      "NAMES": [
+        "态牌"
+      ],
+      "DESCRIPTION": "态牌战终时移。"
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "力"
+      ],
+      "DESCRIPTION": "力使攻得额外伤。"
+    },
+    "STRIKE": {
+      "NAMES": [
+        "击"
+      ],
+      "DESCRIPTION": "凡名含“击”之牌。"
+    },
+    "TEXT": [
+      "汝需气力以展手牌。"
+    ],
+    "THORNS": {
+      "NAMES": [
+        "棘"
+      ],
+      "DESCRIPTION": "受 #y攻 伤时，伤攻者。"
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "此牌未竟，呃，现于此实需修……"
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "变"
+      ],
+      "DESCRIPTION": "变之牌成随机稀度随机牌。"
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "未"
+      ],
+      "DESCRIPTION": "此牌汝尚未遇。"
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "不可出"
+      ],
+      "DESCRIPTION": "不可出之牌不能自手出。"
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "升",
+        "upgraded"
+      ],
+      "DESCRIPTION": "升牌使更强。牌仅升一次。"
+    },
+    "VOID": {
+      "NAMES": [
+        "空",
+        "空"
+      ],
+      "DESCRIPTION": "空乃状态牌不可出，虚无，抽时耗力。"
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "易"
+      ],
+      "DESCRIPTION": "有易效之物自攻受伤增 #b50% 。"
+    },
+    "WEAK": {
+      "NAMES": [
+        "弱",
+        "weaken",
+        "weakened",
+        "weakens"
+      ],
+      "DESCRIPTION": "有弱效之物用攻致伤减 #b25% 。"
+    },
+    "WOUND": {
+      "NAMES": [
+        "创",
+        "wounds"
+      ],
+      "DESCRIPTION": "创乃状态牌不可出。"
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "跟踪锁定"
+      ],
+      "DESCRIPTION": "被跟踪锁定的目标从充能球受到的伤害增加 #b50% 。"
+    },
+    "STANCE": {
+      "NAMES": [
+        "势态",
+        "stances"
+      ],
+      "DESCRIPTION": "一时之间唯能居一势。"
+    },
+    "WRATH": {
+      "NAMES": [
+        "怒相"
+      ],
+      "DESCRIPTION": "居此 #y势 时，予受之击皆倍之。"
+    },
+    "CALM": {
+      "NAMES": [
+        "静相"
+      ],
+      "DESCRIPTION": "离此 #y势 时，得 [W] [W] 。"
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "神格"
+      ],
+      "DESCRIPTION": "入此 #y势 时，获 [W] [W] [W] 。击则三倍伤。次回合启时自离此势。"
+    },
+    "PRAYER": {
+      "NAMES": [
+        "真言",
+        "through violence"
+      ],
+      "DESCRIPTION": "当获 #b10 层 #y真言 时，入 #y神格 。"
+    },
+    "SCRY": {
+      "NAMES": [
+        "预观"
+      ],
+      "DESCRIPTION": "观抽堆顶X牌。可弃其中任意。"
+    },
+    "REGEN": {
+      "NAMES": [
+        "再生"
+      ],
+      "DESCRIPTION": "回合尽时回血。再生每回合减 #b1 。"
+    },
+    "VIGOR": {
+      "NAMES": [
+        "活气"
+      ],
+      "DESCRIPTION": "下一次击造成额外伤。"
+    },
+    "RITUAL": {
+      "NAMES": [
+        "仪法"
+      ],
+      "DESCRIPTION": "回合尽时，获相应点数 #y力 。"
+    },
+    "FATAL": {
+      "NAMES": [
+        "斩灭"
+      ],
+      "DESCRIPTION": "以牌杀非爪牙之敌时，触发此效。"
+    }
+  }
+}
