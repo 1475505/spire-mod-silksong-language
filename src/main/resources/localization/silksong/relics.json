@@ -268,7 +268,7 @@
     "FLAVOR": "虚位",
     "DESCRIPTIONS": [
       "每回合始，得 #b",
-      " 充能。NL（不可除不可易。）"
+      " 充能。 NL （不可除不可易。）"
     ]
   },
   "Discerning Monocle": {
@@ -586,7 +586,7 @@
     "NAME": "虚石护符",
     "FLAVOR": "已废",
     "DESCRIPTIONS": [
-      "抵汝将受之下次 #y减益 ，来自敌。NL #b10 回合后复充。"
+      "抵汝将受之下次 #y减益 ，来自敌。 NL #b10 回合后复充。"
     ]
   },
   "Odd Mushroom": {

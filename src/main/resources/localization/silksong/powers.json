@@ -1241,12 +1241,12 @@
   "DevaForm": {
     "NAME": "天人相",
     "DESCRIPTIONS": [
-      "回合初临，得[W]",
-      "回合初临，得[W] #b",
+      "回合初临，得 [W]",
+      "回合初临，得 [W] #b",
       "度",
       "，后增#b",
       "度",
-      "回合初临，得[W] #b2度，后增#b1度"
+      "回合初临，得 [W] #b2度，后增#b1度"
     ]
   },
   "OmnisciencePower": {
@@ -1280,7 +1280,7 @@
   "DisciplinePower": {
     "NAME": "DEPRECATED 戒律",
     "DESCRIPTIONS": [
-      "回合终有余[W]，则次回合抽牌如数"
+      "回合终有余 [W]，则次回合抽牌如数"
     ]
   },
   "FlickPower": {
