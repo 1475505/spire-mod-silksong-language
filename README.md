@@ -1,20 +1,24 @@
 # Silksong Language Pack - 丝之歌体语言包
 
+> 本项目由Trae生成
+
 《杀戮尖塔》丝之歌体本地化mod，提供古典文言文风格的中文本地化体验。
 
 ## 功能特色
 
-- 🎨 **古典文言文风格** - 独特的古风文本体验
-- 📚 **完整本地化** - 覆盖游戏所有内容（卡牌、UI、角色、遗物等）
-- 🔄 **即时切换** - 通过游戏内语言设置即可切换
-- ⚖️ **平衡保持** - 不影响游戏平衡性
+你现在是「文盲古文小生」翻译师。将正常中文改写为《空洞骑士：丝之歌》的玄虚风格：
+
+【翻译规则】
+1. 核心技法：错置词性语序、乱用拟古词。无需强求改写，适时保留原文，只对有玄虚效果的部分进行修改。
+2. 字数控制：与原文大体一致
+3. 可读性：确保玩家只能模糊地理解基本含义，不知所云
 
 ## 安装方法
 
 ### 方法一：直接安装（推荐）
 1. 下载编译好的 `silksong-language.jar` 文件
 2. 将jar文件放入 `SlayTheSpire/mods/` 目录
-3. 启动游戏，在设置中将语言切换为对应选项
+3. 启动游戏，在设置中将语言切换为简体中文
 
 ### 方法二：从源码构建
 
@@ -27,15 +31,9 @@
 
 #### 构建步骤
 
-1. **准备依赖文件**
+1. **修改maven里的Steam.path**
    
-   将以下文件复制到 `lib/` 目录：
-   ```
-   lib/
-   ├── desktop-1.0.jar      # 从游戏安装目录复制
-   ├── ModTheSpire.jar      # 从ModTheSpire安装目录复制
-   └── BaseMod.jar          # 从BaseMod下载页面获取
-   ```
+   安装了杀戮尖塔及mod的路径 
 
 2. **编译项目**
    ```bash
@@ -49,59 +47,20 @@
 
 4. **安装mod**
    
-   将生成的 `target/silksong-language.jar` 复制到游戏的mods目录
+   生成的 `silksong-language.jar` 会自动复制到游戏的mods目录
 
-## 项目结构
 
+## 手动翻译
+
+1. 将杀戮尖塔本体desktop-1.0.jar解压，提取中文本地化目录zhs/*.json，放到本目录下
+2. 配置Deepseek或者任何OpenAI模型的调用信息
 ```
-sts-mod-silksong-language/
-├── src/main/java/com/silksong/lang/
-│   └── SilksongLanguageMod.java          # 主mod类
-├── src/main/resources/localization/silksong/
-│   ├── cards.json                        # 卡牌本地化
-│   ├── ui.json                          # UI本地化
-│   ├── characters.json                  # 角色本地化
-│   ├── relics.json                      # 遗物本地化
-│   ├── monsters.json                    # 怪物本地化
-│   ├── events.json                      # 事件本地化
-│   ├── potions.json                     # 药水本地化
-│   ├── powers.json                      # 能力本地化
-│   ├── keywords.json                    # 关键词本地化
-│   ├── orbs.json                        # 球体本地化
-│   ├── stances.json                     # 姿态本地化
-│   ├── tutorials.json                   # 教程本地化
-│   ├── achievements.json                # 成就本地化
-│   ├── blights.json                     # 荒疫本地化
-│   ├── score_bonuses.json               # 积分奖励本地化
-│   ├── run_mods.json                    # 运行模式本地化
-│   └── credits.json                     # 制作人员本地化
-├── lib/                                 # 依赖jar文件目录
-├── pom.xml                              # Maven配置
-├── ModTheSpire.json                     # Mod元数据
-└── README.md                            # 项目说明
+export OPENAI_API_KEY=
+export OPENAI_API_URL=
+python trans.py zhs/cards.json
 ```
 
-## 使用说明
-
-1. 确保已安装ModTheSpire和BaseMod
-2. 将mod文件放入mods目录
-3. 启动游戏
-4. 在游戏设置中切换语言即可体验丝之歌体本地化
-
-## 技术说明
-
-- **Mod ID**: `com.silksong.lang`
-- **依赖**: BaseMod 5.15.0+
-- **兼容性**: 支持《杀戮尖塔》12-22-2020版本
-- **语言代码**: 基于简体中文(ZHS)扩展
-
-## 贡献
-
-欢迎提交问题报告和改进建议！
-
-## 许可证
-
-本项目遵循开源许可证，详情请查看LICENSE文件。
+逐个文件调用，每次调用会翻译150条记录。详见代码，代码问题可以问AI
 
 ---
 
